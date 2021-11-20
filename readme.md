@@ -13,4 +13,4 @@ El propósito de este estudio es entender qué factores afectan la opinión de l
 1. Enrique Hernández
 1. Arturo Soberón
 1. Cynthia Urgel
-1. Jonathan _
+1. Jonathan Vázquez
