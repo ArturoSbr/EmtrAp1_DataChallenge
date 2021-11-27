@@ -1,429 +1,466 @@
-"Timestamp","¿Deseas continuar con la encuesta?","¿Cuál de las siguientes opciones representa mejor tu opinión respecto al regreso a clases presenciales en las primarias y secundarias de la Ciudad de México?","¿Estás vacunado?","¿En qué alcaldía vives?","Sexo","Edad (en número de años)","¿Puedes realizar tu actividad principal (trabajo o escuela) desde casa?","Tipo de transporte que utilizas regularmente.","¿Estudias o has estudiado en una institución de educación pública?","¿Tienes hijos?","¿Cuentas con el apoyo de al menos una persona que cuide de tus hijos cuando tú no puedes por motivos de trabajo?","¿Tienes algún hijo en escuela primaria?","¿Tienes algún hijo en escuela secundaría?","Incluyéndote a ti, ¿Cuántas personas viven en el mismo hogar que tú?","¿Cuántos de los integrantes de tu hogar (incluyéndote) trabajan?","De los integrantes que trabajan, ¿Cuántos están inscritos/cuentan con seguro social?","¿En tu hogar hay alguien vulnerable ante el COVID-19?","¿Tu hogar cuenta con acceso a internet?","¿Cuántas televisiones hay en tu hogar?","¿Cuántas computadoras y tabletas hay en tu hogar?"
-"2021/11/17 5:13:33 PM CST","Sí","Neutral","No","Miguel Hidalgo","Hombre","32","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","4"
-"2021/11/17 5:13:45 PM CST","Sí","Neutral","Sí","No vivo en CDMX","Mujer","27","Sí","Privado","No","No tengo (0 hijos)","","","","3","2","2","Sí","Sí","3","4"
-"2021/11/17 5:16:52 PM CST","Sí","De acuerdo","Sí","Miguel Hidalgo","Mujer","29","No","Privado","No","No tengo (0 hijos)","","","","4","2","2","Sí","Sí","5","3"
-"2021/11/17 5:16:57 PM CST","Sí","De acuerdo","Sí","Coyoacán","Hombre","33","No","Privado","Sí","No tengo (0 hijos)","","","","3","3","3","Sí","Sí","2","2"
-"2021/11/17 5:17:21 PM CST","Sí","De acuerdo","Sí","Iztapalapa","Mujer","32","No","Privado","Sí","1","Sí","No","No","3","2","2","No","Sí","2","2"
-"2021/11/17 5:17:53 PM CST","Sí","De acuerdo","Sí","Coyoacán","Hombre","69","Sí","Privado","Sí","2","No","No","No","2","1","2","Sí","Sí","4","4"
-"2021/11/17 5:19:12 PM CST","Sí","Neutral","Sí","No vivo en CDMX","Hombre","27","No","Privado","No","No tengo (0 hijos)","","","","3","2","1","No","Sí","2","4"
-"2021/11/17 5:19:25 PM CST","Sí","De acuerdo","Sí","Magdalena Contreras","Mujer","30","No","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","1","2"
-"2021/11/17 5:19:26 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","31","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","6","4","2","Sí","Sí","3","5"
-"2021/11/17 5:19:42 PM CST","Sí","De acuerdo","Sí","Cuahutémoc","Hombre","32","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","3","3"
-"2021/11/17 5:19:43 PM CST","Sí","Neutral","Sí","Coyoacán","Mujer","30","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","3"
-"2021/11/17 5:20:26 PM CST","Sí","En desacuerdo","Sí","Magdalena Contreras","Hombre","70","Sí","Privado","Sí","3","No","No","No","2","2","1","Sí","Sí","2","2"
-"2021/11/17 5:21:04 PM CST","Sí","Muy en desacuerdo","Sí","Tlalpan","Hombre","32","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","4","Sí","Sí","3","3"
-"2021/11/17 5:23:15 PM CST","Sí","De acuerdo","No","Benito Juárez","Mujer","26","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","5"
-"2021/11/17 5:23:18 PM CST","Sí","Muy en desacuerdo","Sí","Magdalena Contreras","Hombre","35","No","Privado","No","No tengo (0 hijos)","","","","2","1","1","Sí","Sí","2","3"
-"2021/11/17 5:23:21 PM CST","Sí","En desacuerdo","Sí","Magdalena Contreras","Mujer","35","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","1","1","No","Sí","2","3"
-"2021/11/17 5:23:36 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","29","Sí","Público/Colectivo","No","No tengo (0 hijos)","","","","4","1","0","No","Sí","4","11"
-"2021/11/17 5:24:36 PM CST","Sí","De acuerdo","Sí","Iztacalco","Hombre","32","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","4","2","2","Sí","Sí","3","4"
-"2021/11/17 5:26:31 PM CST","Sí","De acuerdo","Sí","Tláhuac","Hombre","22","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","4","3","4","No","Sí","2","2"
-"2021/11/17 5:26:33 PM CST","Sí","Neutral","Sí","Venustiano Carranza","Hombre","22","Sí","Privado","Sí","No tengo (0 hijos)","","","","3","3","3","Sí","Sí","3","2"
-"2021/11/17 5:27:07 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Mujer","30","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","2","0","No","Sí","1","4"
-"2021/11/17 5:27:17 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","24","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","1","1","0","No","Sí","1","2"
-"2021/11/17 5:27:54 PM CST","Sí","De acuerdo","Sí","Álvaro Obregón","Mujer","23","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","4","2","1","Sí","Sí","2","2"
-"2021/11/17 5:27:58 PM CST","Sí","En desacuerdo","Sí","Tlalpan","Hombre","62","Sí","Privado","Sí","1","Sí","No","No","4","3","1","Sí","Sí","5","4"
-"2021/11/17 5:28:20 PM CST","Sí","Neutral","Sí","Miguel Hidalgo","Mujer","33","Sí","Privado","Sí","No tengo (0 hijos)","","","","3","2","2","Sí","Sí","2","3"
-"2021/11/17 5:28:23 PM CST","Sí","Neutral","Sí","Benito Juárez","Hombre","33","Sí","Público/Colectivo","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","1","8"
-"2021/11/17 5:30:08 PM CST","Sí","De acuerdo","Sí","Cuahutémoc","Mujer","29","Sí","Privado","Sí","No tengo (0 hijos)","","","","3","2","2","Sí","Sí","4","4"
-"2021/11/17 5:30:24 PM CST","Sí","En desacuerdo","Sí","Magdalena Contreras","Hombre","29","Sí","Privado","No","No tengo (0 hijos)","","","","2","1","1","Sí","Sí","4","4"
-"2021/11/17 5:30:36 PM CST","Sí","Muy en desacuerdo","Sí","No vivo en CDMX","Hombre","30","Sí","Privado","No","No tengo (0 hijos)","","","","4","2","2","Sí","Sí","4","3"
-"2021/11/17 5:31:01 PM CST","Sí","Neutral","Sí","No vivo en CDMX","Hombre","46","Sí","Privado","Sí","No tengo (0 hijos)","","","","1","1","1","Sí","Sí","1","2"
-"2021/11/17 5:32:10 PM CST","Sí","Neutral","Sí","No vivo en CDMX","Mujer","25","Sí","Privado","No","No tengo (0 hijos)","","","","6","3","3","Sí","Sí","1","5"
-"2021/11/17 5:32:21 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","36","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","1","3"
-"2021/11/17 5:32:44 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","26","Sí","Privado","Sí","No tengo (0 hijos)","","","","3","2","3","Sí","Sí","4","3"
-"2021/11/17 5:34:41 PM CST","Sí","Neutral","Sí","Coyoacán","Hombre","33","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","5","2","2","No","Sí","4","3"
-"2021/11/17 5:35:01 PM CST","Sí","En desacuerdo","Sí","Venustiano Carranza","Mujer","18","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","2","2","0","No","Sí","1","2"
-"2021/11/17 5:35:10 PM CST","Sí","Neutral","Sí","Benito Juárez","Mujer","45","No","Privado","Sí","2","Sí","No","No","6","4","3","Sí","Sí","6","2"
-"2021/11/17 5:35:30 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","32","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","1","No","Sí","1","3"
-"2021/11/17 5:36:07 PM CST","Sí","Neutral","No","No vivo en CDMX","Mujer","32","Sí","Privado","No","1","Sí","No","No","3","1","3","Sí","Sí","2","3"
-"2021/11/17 5:37:07 PM CST","Sí","De acuerdo","Sí","Miguel Hidalgo","Hombre","26","Sí","Privado","Sí","No tengo (0 hijos)","","","","5","3","3","No","Sí","4","5"
-"2021/11/17 5:37:52 PM CST","Sí","Muy de acuerdo","Sí","Iztapalapa","Hombre","28","Sí","Privado","No","1","Sí","No","No","3","1","3","No","Sí","0","6"
-"2021/11/17 5:38:18 PM CST","Sí","Neutral","No","Coyoacán","Hombre","30","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","3"
-"2021/11/17 5:39:24 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","33","Sí","Público/Colectivo","No","1","Sí","No","No","3","2","2","Sí","Sí","1","4"
-"2021/11/17 5:39:56 PM CST","Sí","En desacuerdo","Sí","Gustavo A. Madero","Mujer","38","Sí","Privado","Sí","No tengo (0 hijos)","","","","1","2","2","Sí","Sí","1","3"
-"2021/11/17 5:41:29 PM CST","Sí","En desacuerdo","Sí","Benito Juárez","Mujer","31","Sí","Público/Colectivo","No","No tengo (0 hijos)","","","","2","1","1","Sí","Sí","3","2"
-"2021/11/17 5:42:05 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Mujer","26","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","1","5"
-"2021/11/17 5:44:37 PM CST","Sí","De acuerdo","Sí","Coyoacán","Mujer","31","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","4","2","1","No","Sí","2","4"
-"2021/11/17 5:46:04 PM CST","Sí","Neutral","Sí","No vivo en CDMX","Mujer","20","Sí","Privado","No","No tengo (0 hijos)","","","","4","1","1","Sí","Sí","3","8"
-"2021/11/17 5:46:32 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Hombre","32","Sí","Público/Colectivo","Sí","1","No","No","Sí","3","2","2","No","Sí","2","3"
-"2021/11/17 5:48:40 PM CST","Sí","De acuerdo","Sí","Cuajimalpa","Mujer","30","Sí","Privado","Sí","1","No","No","No","3","2","2","No","Sí","2","3"
-"2021/11/17 5:50:26 PM CST","Sí","De acuerdo","Sí","Cuahutémoc","Hombre","32","Sí","Privado","No","No tengo (0 hijos)","","","","1","1","1","No","Sí","1","1"
-"2021/11/17 5:50:27 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Hombre","30","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","4","2","2","Sí","Sí","2","3"
-"2021/11/17 5:51:07 PM CST","Sí","De acuerdo","Sí","Coyoacán","Hombre","25","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","Sí","Sí","1","2"
-"2021/11/17 5:53:15 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","38","No","Privado","Sí","No tengo (0 hijos)","","","","2","2","0","Sí","Sí","4","4"
-"2021/11/17 5:53:56 PM CST","Sí","De acuerdo","No","No vivo en CDMX","Mujer","25","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","2","2","1","No","Sí","1","2"
-"2021/11/17 5:54:46 PM CST","Sí","En desacuerdo","Sí","Coyoacán","Mujer","66 ","Sí","Privado","Sí","3","No","No","No","2","1","1","Sí","Sí","3","2"
-"2021/11/17 5:55:06 PM CST","Sí","De acuerdo","Sí","Azcapotzalco","Mujer","36","Sí","Público/Colectivo","Sí","1","Sí","Sí","No","5","2","5","Sí","Sí","4","3"
-"2021/11/17 5:55:48 PM CST","Sí","Muy de acuerdo","Sí","Cuajimalpa","Hombre","39","Sí","Privado","Sí","1","Sí","No","No","3","2","2","Sí","Sí","5","3"
-"2021/11/17 5:56:45 PM CST","Sí","Muy de acuerdo","Sí","Coyoacán","Mujer","40","Sí","Privado","Sí","1","Sí","No","No","2","1","1","Sí","Sí","2","2"
-"2021/11/17 5:56:52 PM CST","Sí","Muy de acuerdo","Sí","Álvaro Obregón","Hombre","37","Sí","Privado","Sí","No tengo (0 hijos)","","","","1","1","1","Sí","Sí","2","3"
-"2021/11/17 5:57:22 PM CST","Sí","Neutral","Sí","Benito Juárez","Mujer","29","No","Privado","Sí","No tengo (0 hijos)","","","","1","2","1","No","Sí","2","2"
-"2021/11/17 5:58:00 PM CST","Sí","De acuerdo","Sí","Álvaro Obregón","Hombre","20","Sí","Privado","No","No tengo (0 hijos)","","","","4","3","2","Sí","Sí","4","3"
-"2021/11/17 5:58:19 PM CST","Sí","Muy en desacuerdo","Sí","Coyoacán","Mujer","45","No","Privado","No","No tengo (0 hijos)","","","","1","1","2","Sí","Sí","3","1"
-"2021/11/17 5:58:32 PM CST","Sí","Muy de acuerdo","Sí","Álvaro Obregón","Hombre","27","Sí","Privado","Sí","No tengo (0 hijos)","","","","7","7","7","Sí","Sí","7","12"
-"2021/11/17 6:00:24 PM CST","Sí","Muy de acuerdo","Sí","No vivo en CDMX","Mujer","27","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","2","2","Sí","Sí","2","2"
-"2021/11/17 6:01:48 PM CST","Sí","Neutral","Sí","No vivo en CDMX","Mujer","30","Sí","Público/Colectivo","Sí","1","No","No","No","3","2","2","Sí","Sí","2","2"
-"2021/11/17 6:02:00 PM CST","Sí","De acuerdo","Sí","Tlalpan","Hombre","30","Sí","Privado","No","No tengo (0 hijos)","","","","4","2","3","Sí","Sí","5","7"
-"2021/11/17 6:04:26 PM CST","Sí","Muy en desacuerdo","Sí","Coyoacán","Mujer","32","Sí","Privado","No","No tengo (0 hijos)","","","","2","1","0","Sí","Sí","1","2"
-"2021/11/17 6:04:43 PM CST","Sí","De acuerdo","Sí","Coyoacán","Hombre","32","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","4","2"
-"2021/11/17 6:05:19 PM CST","Sí","En desacuerdo","Sí","Miguel Hidalgo","Hombre","32","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","5"
-"2021/11/17 6:07:10 PM CST","Sí","Muy en desacuerdo","Sí","Álvaro Obregón","Hombre","33","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","2","2","Sí","Sí","3","3"
-"2021/11/17 6:08:37 PM CST","Sí","De acuerdo","Sí","Cuahutémoc","Mujer","64","Sí","Público/Colectivo","Sí","3","No","No","No","1","1","0","Sí","Sí","1","1"
-"2021/11/17 6:09:29 PM CST","Sí","De acuerdo","Sí","Cuahutémoc","Hombre","37","Sí","Privado","No","1","No","Sí","No","3","2","2","No","Sí","2","4"
-"2021/11/17 6:10:14 PM CST","Sí","De acuerdo","Sí","Tlalpan","Hombre","30","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","1","1","No","Sí","1","5"
-"2021/11/17 6:12:15 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","44","Sí","Privado","Sí","2","Sí","Sí","No","41","1","4","No","Sí","2","3"
-"2021/11/17 6:14:30 PM CST","Sí","De acuerdo","Sí","Miguel Hidalgo","Hombre","32","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","1","1","1","No","Sí","1","1"
-"2021/11/17 6:14:46 PM CST","Sí","De acuerdo","Sí","Coyoacán","Hombre","50","Sí","Privado","Sí","2","No","No","No","5","1","1","No","Sí","3","1"
-"2021/11/17 6:15:17 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Mujer","27","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","3","3"
-"2021/11/17 6:16:55 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","59","Sí","Público/Colectivo","Sí","3","Sí","No","Sí","4","3","2","Sí","Sí","2","4"
-"2021/11/17 6:18:24 PM CST","Sí","Muy de acuerdo","Sí","No vivo en CDMX","Mujer","47","Sí","Público/Colectivo","Sí","3","No","No","No","3","1","0","Sí","Sí","0","1"
-"2021/11/17 6:19:11 PM CST","Sí","Muy de acuerdo","Sí","Coyoacán","Hombre","29","Sí","Privado","No","No tengo (0 hijos)","","","","4","2","2","Sí","Sí","6","7"
-"2021/11/17 6:19:21 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","31","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","3","5"
-"2021/11/17 6:19:35 PM CST","Sí","Neutral","No","No vivo en CDMX","Mujer","29","No","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","2","0","Sí","Sí","3","1"
-"2021/11/17 6:20:59 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","45","Sí","Privado","Sí","2","Sí","Sí","No","4","2","2","Sí","Sí","5","15"
-"2021/11/17 6:21:38 PM CST","Sí","De acuerdo","Sí","Álvaro Obregón","Hombre","29","Sí","Privado","No","No tengo (0 hijos)","","","","4","4","3","Sí","Sí","5","5"
-"2021/11/17 6:21:39 PM CST","Sí","Muy de acuerdo","No","No vivo en CDMX","Mujer","65","Sí","Privado","No","4","No","No","No","3","1","3","Sí","Sí","2","3"
-"2021/11/17 6:22:25 PM CST","Sí","Muy de acuerdo","Sí","Álvaro Obregón","Hombre","36","Sí","Privado","Sí","No tengo (0 hijos)","","","","1","1","1","No","Sí","1","2"
-"2021/11/17 6:22:40 PM CST","Sí","Muy de acuerdo","Sí","Benito Juárez","Hombre","30","No","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","2","2","Sí","Sí","3","2"
-"2021/11/17 6:24:49 PM CST","Sí","De acuerdo","Sí","Coyoacán","Hombre","22","No","Privado","Sí","No tengo (0 hijos)","","","","5","4","3","Sí","Sí","1","4"
-"2021/11/17 6:26:05 PM CST","Sí","Muy de acuerdo","Sí","Cuajimalpa","Mujer","23","No","Público/Colectivo","Sí","1","Sí","No","No","3","2","0","No","Sí","1","0"
-"2021/11/17 6:30:00 PM CST","Sí","Muy de acuerdo","Sí","Álvaro Obregón","Mujer","30","Sí","Público/Colectivo","Sí","1","Sí","No","No","3","2","2","Sí","Sí","1","5"
-"2021/11/17 6:32:13 PM CST","Sí","Muy de acuerdo","Sí","Iztapalapa","Mujer","43","No","Público/Colectivo","Sí","1","No","No","No","4","3","2","Sí","Sí","2","1"
-"2021/11/17 6:32:15 PM CST","Sí","Neutral","No","No vivo en CDMX","Mujer","34","Sí","Privado","Sí","No tengo (0 hijos)","","","","1","1","1","No","Sí","1","1"
-"2021/11/17 6:33:28 PM CST","Sí","Neutral","Sí","Iztapalapa","Hombre","50","Sí","Público/Colectivo","Sí","1","No","No","No","4","3","2","Sí","Sí","3","2"
-"2021/11/17 6:33:30 PM CST","Sí","En desacuerdo","Sí","Cuajimalpa","Mujer","30","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","5","2","0 ","Sí","Sí","3","1"
-"2021/11/17 6:33:54 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","28","Sí","Público/Colectivo","No","No tengo (0 hijos)","","","","2","2","1","No","Sí","2","2"
-"2021/11/17 6:34:27 PM CST","Sí","Neutral","Sí","Benito Juárez","Mujer","32","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","2","2","1","No","Sí","1","2"
-"2021/11/17 6:40:47 PM CST","Sí","En desacuerdo","Sí","Cuajimalpa","Mujer","71","Sí","Privado","No","2","No","No","No","2","1","0","Sí","Sí","2","4"
-"2021/11/17 6:41:18 PM CST","Sí","Neutral","Sí","Iztapalapa","Mujer","25","Sí","Público/Colectivo","No","1","Sí","No","No","3","3","3","Sí","Sí","3","2"
-"2021/11/17 6:44:41 PM CST","Sí","Muy de acuerdo","Sí","Iztapalapa","Mujer","20","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","2","2","No","Sí","2","1"
-"2021/11/17 6:47:10 PM CST","Sí","En desacuerdo","Sí","Benito Juárez","Mujer","37","Sí","Privado","No","No tengo (0 hijos)","","","","2","1","1","No","Sí","2","2"
-"2021/11/17 6:49:31 PM CST","Sí","Neutral","Sí","Iztapalapa","Mujer","44","No","Público/Colectivo","Sí","2","No","No","No","3","1","2","Sí","Sí","2","1"
-"2021/11/17 6:49:52 PM CST","Sí","Neutral","No","Iztapalapa","Mujer","18","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","6","2","0","No","Sí","1","3"
-"2021/11/17 6:51:26 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","28","Sí","Privado","No","No tengo (0 hijos)","","","","5","4","3","Sí","Sí","3","4"
-"2021/11/17 6:51:47 PM CST","Sí","Neutral","Sí","Cuahutémoc","Hombre","28","Sí","Privado","No","No tengo (0 hijos)","","","","1","1","1","No","Sí","3","3"
-"2021/11/17 6:53:59 PM CST","Sí","Muy de acuerdo","Sí","Iztapalapa","Mujer","22","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","4","4","2","Sí","Sí","2","2"
-"2021/11/17 6:54:09 PM CST","Sí","De acuerdo","Sí","Miguel Hidalgo","Hombre","34","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","1","0","Sí","Sí","2","3"
-"2021/11/17 6:54:39 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Mujer","37","Sí","Privado","No","2","Sí","Sí","No","5","2","2","Sí","Sí","1","4"
-"2021/11/17 6:57:59 PM CST","Sí","Muy de acuerdo","No","No vivo en CDMX","Mujer","25","No","Privado","Sí","2","No","No","No","4","2","0","No","Sí","3","1"
-"2021/11/17 6:58:30 PM CST","Sí","En desacuerdo","Sí","Benito Juárez","Mujer","30","No","Público/Colectivo","Sí","No tengo (0 hijos)","","","","2","2","1","Sí","Sí","1","1"
-"2021/11/17 6:58:49 PM CST","Sí","En desacuerdo","Sí","Álvaro Obregón","Mujer","37","No","Privado","Sí","No tengo (0 hijos)","","","","1","1","1","No","Sí","1","2"
-"2021/11/17 6:59:17 PM CST","Sí","Muy de acuerdo","No","Gustavo A. Madero","Mujer","58","No","Privado","No","2","No","No","No","3","0","0","No","Sí","3","3"
-"2021/11/17 6:59:37 PM CST","Sí","De acuerdo","Sí","Cuahutémoc","Hombre","38","Sí","Privado","No","1","Sí","No","No","3","2","2","Sí","Sí","2","4"
-"2021/11/17 7:04:16 PM CST","Sí","De acuerdo","Sí","Iztapalapa","Mujer","32","No","Público/Colectivo","Sí","2","No","Sí","No","4","2","1","Sí","Sí","1","0"
-"2021/11/17 7:09:27 PM CST","Sí","De acuerdo","Sí","Coyoacán","Mujer","48","No","Público/Colectivo","Sí","3","No","No","No","4","1","4","No","Sí","1","3"
-"2021/11/17 7:09:34 PM CST","Sí","Muy de acuerdo","Sí","Benito Juárez","Hombre","28","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","3"
-"2021/11/17 7:10:43 PM CST","Sí","Muy de acuerdo","Sí","Iztapalapa","Mujer","49","Sí","Público/Colectivo","Sí","5","Sí","No","Sí","7","2","1","No","Sí","1","0"
-"2021/11/17 7:15:12 PM CST","Sí","De acuerdo","Sí","Iztapalapa","Mujer","45","No","Público/Colectivo","Sí","2","No","No","No","4","2","2","Sí","Sí","4","3"
-"2021/11/17 7:22:52 PM CST","Sí","En desacuerdo","Sí","Coyoacán","Hombre","70","Sí","Privado","Sí","3","Sí","No","No","1","3","2","Sí","Sí","3","2"
-"2021/11/17 7:25:44 PM CST","Sí","En desacuerdo","Sí","Coyoacán","Hombre","70","Sí","Privado","Sí","3","Sí","No","No","1","1","1","Sí","Sí","3","2"
-"2021/11/17 7:27:09 PM CST","Sí","En desacuerdo","Sí","Iztapalapa","Mujer"," 42","Sí","Público/Colectivo","Sí","4","Sí","No","Sí","5","1","0","No","Sí","1","0"
-"2021/11/17 7:27:47 PM CST","Sí","Neutral","Sí","Iztapalapa","Mujer","19","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","9","1","1","Sí","Sí","2","1"
-"2021/11/17 7:39:59 PM CST","Sí","Neutral","Sí","Iztapalapa","Mujer","26","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","1","1","1","No","Sí","1","1"
-"2021/11/17 7:41:53 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Hombre","47","No","Privado","Sí","2","Sí","Sí","No","4","2","2","No","Sí","1","3"
-"2021/11/17 7:44:42 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","44","Sí","Público/Colectivo","Sí","2","Sí","No","Sí","4","2","1","Sí","Sí","1","1"
-"2021/11/17 7:45:36 PM CST","Sí","Muy en desacuerdo","Sí","Gustavo A. Madero","Hombre","53","Sí","Privado","Sí","2","Sí","No","Sí","4","1","4","No","Sí","2","5"
-"2021/11/17 7:50:02 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","39","Sí","Privado","No","1","No","Sí","No","3","2","2","No","Sí","4","5"
-"2021/11/17 7:51:15 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","28","No","Privado","Sí","No tengo (0 hijos)","","","","5","4","1","Sí","Sí","3","1"
-"2021/11/17 7:51:28 PM CST","Sí","De acuerdo","Sí","Álvaro Obregón","Hombre","30","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","2",".1","0","No","Sí","1","4"
-"2021/11/17 7:53:03 PM CST","Sí","Muy en desacuerdo","No","Coyoacán","Hombre","29","No","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","1","2"
-"2021/11/17 7:55:09 PM CST","Sí","De acuerdo","Sí","Cuajimalpa","Mujer","39","Sí","Privado","Sí","1","Sí","No","No","4","2","2","No","Sí","3","2"
-"2021/11/17 7:55:29 PM CST","Sí","De acuerdo","Sí","Azcapotzalco","Hombre","70","Sí","Privado","Sí","3","No","No","No","3","2","2","Sí","Sí","3","4"
-"2021/11/17 8:10:30 PM CST","Sí","De acuerdo","Sí","Coyoacán","Hombre","71","No","Privado","Sí","2","Sí","No","No","2","1","2","No","Sí","2","1"
-"2021/11/17 8:14:41 PM CST","Sí","De acuerdo","Sí","Xochimilco","Mujer","20 ","Sí","Público/Colectivo","No","No tengo (0 hijos)","","","","3","2","2","Sí","Sí","4","8"
-"2021/11/17 8:16:32 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","26","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","1","1"
-"2021/11/17 8:18:16 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","26","Sí","Privado","Sí","No tengo (0 hijos)","","","","3","3","3","Sí","Sí","4","6"
-"2021/11/17 8:25:45 PM CST","Sí","Neutral","No","Cuajimalpa","Mujer","25","Sí","Privado","No","No tengo (0 hijos)","","","","5","4","4","No","Sí","6","6"
-"2021/11/17 8:31:46 PM CST","Sí","Muy de acuerdo","Sí","Miguel Hidalgo","Mujer","30","No","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","3","3"
-"2021/11/17 8:54:32 PM CST","Sí","De acuerdo","Sí","Tlalpan","Mujer","70","Sí","Privado","Sí","No tengo (0 hijos)","","","","1","0","0","Sí","Sí","1","1"
-"2021/11/17 9:01:38 PM CST","Sí","De acuerdo","Sí","Iztapalapa","Mujer","26","Sí","Público/Colectivo","Sí","2","Sí","Sí","No","8","4","2","Sí","Sí","4","3"
-"2021/11/17 9:08:19 PM CST","Sí","Neutral","Sí","Coyoacán","Mujer","42","No","Público/Colectivo","No","2","No","Sí","No","4","2","3","No","Sí","2","1"
-"2021/11/17 9:09:01 PM CST","Sí","Neutral","Sí","No vivo en CDMX","Hombre","31","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","2","2","1","No","Sí","2","2"
-"2021/11/17 9:10:24 PM CST","Sí","En desacuerdo","Sí","Xochimilco","Mujer","30 ","Sí","Público/Colectivo","Sí","2","Sí","Sí","No","7","4","1","No","Sí","3","3"
-"2021/11/17 9:15:56 PM CST","Sí","De acuerdo","Sí","Coyoacán","Mujer","28","No","Privado","Sí","No tengo (0 hijos)","","","","2","2","1","No","Sí","1","4"
-"2021/11/17 9:17:54 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Hombre","70","Sí","Privado","Sí","1","Sí","No","No","3","2","2","Sí","Sí","3","3"
-"2021/11/17 9:25:07 PM CST","Sí","De acuerdo","Sí","Cuajimalpa","Mujer","27","Sí","Privado","No","No tengo (0 hijos)","","","","1","1","1","No","Sí","1","3"
-"2021/11/17 9:31:46 PM CST","Sí","Neutral","Sí","No vivo en CDMX","Mujer","31","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","1","No","Sí","3","4"
-"2021/11/17 9:35:33 PM CST","Sí","En desacuerdo","Sí","Iztapalapa","Hombre","69","Sí","Privado","Sí","3","No","No","No","3","3","3","Sí","Sí","2","3"
-"2021/11/17 9:36:03 PM CST","Sí","De acuerdo","Sí","Iztapalapa","Hombre","22","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","2","0","No","Sí","2","1"
-"2021/11/17 9:38:48 PM CST","Sí","De acuerdo","Sí","Iztapalapa","Mujer","22","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","6","2","3","Sí","Sí","1","2"
-"2021/11/17 9:40:25 PM CST","Sí","Neutral","Sí","No vivo en CDMX","Hombre","34","No","Privado","Sí","2","No","Sí","No","4","1","0","No","Sí","1","0"
-"2021/11/17 9:40:39 PM CST","Sí","De acuerdo","Sí","Iztapalapa","Mujer","23","No","Público/Colectivo","Sí","No tengo (0 hijos)","","","","7","6","1","Sí","Sí","6","3"
-"2021/11/17 9:43:47 PM CST","Sí","Neutral","Sí","No vivo en CDMX","Hombre","34","No","Privado","Sí","2","No","Sí","No","4","1","0","No","Sí","1","0"
-"2021/11/17 9:45:02 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Hombre","27","Sí","Privado","Sí","No tengo (0 hijos)","","","","5","3","5","Sí","Sí","4","6"
-"2021/11/17 9:48:02 PM CST","Sí","Muy de acuerdo","Sí","Xochimilco","Mujer","52","Sí","Privado","Sí","1","Sí","No","No","4","1","1","Sí","Sí","3","3"
-"2021/11/17 9:48:16 PM CST","Sí","Neutral","Sí","No vivo en CDMX","Hombre","27","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","3","3","Sí","Sí","3","3"
-"2021/11/17 9:49:32 PM CST","Sí","En desacuerdo","Sí","No vivo en CDMX","Hombre","40","Sí","Privado","Sí","1","Sí","No","No","3","1","1","Sí","Sí","1","4"
-"2021/11/17 9:51:12 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","32","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","1","4"
-"2021/11/17 9:51:18 PM CST","Sí","De acuerdo","No","Iztapalapa","Hombre","39","Sí","Privado","Sí","2","Sí","No","No","5","2","2","No","Sí","2","3"
-"2021/11/17 9:52:04 PM CST","Sí","En desacuerdo","Sí","No vivo en CDMX","Hombre","24","Sí","Público/Colectivo","No","No tengo (0 hijos)","","","","4","2","2","Sí","Sí","3","3"
-"2021/11/17 9:52:12 PM CST","Sí","En desacuerdo","Sí","Miguel Hidalgo","Mujer","34","Sí","Público/Colectivo","Sí","1","No","No","Sí","3","2","1","Sí","Sí","1","4"
-"2021/11/17 9:52:31 PM CST","Sí","Muy en desacuerdo","Sí","Gustavo A. Madero","Hombre","32","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","5","4","4","Sí","Sí","3","3"
-"2021/11/17 9:54:19 PM CST","Sí","De acuerdo","Sí","Gustavo A. Madero","Mujer","50","Sí","Público/Colectivo","Sí","1","Sí","No","Sí","2","1","1","No","Sí","2","2"
-"2021/11/17 9:55:04 PM CST","Sí","Muy en desacuerdo","Sí","Miguel Hidalgo","Hombre","28","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","2","1","Sí","Sí","1","3"
-"2021/11/17 9:59:56 PM CST","Sí","De acuerdo","Sí","Cuahutémoc","Mujer","24","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","4","3","2","Sí","Sí","2","4"
-"2021/11/17 10:00:57 PM CST","Sí","De acuerdo","Sí","Miguel Hidalgo","Hombre","49","Sí","Público/Colectivo","Sí","3","Sí","No","Sí","5","2","0","No","Sí","3","7"
-"2021/11/17 10:01:04 PM CST","Sí","Neutral","Sí","Cuahutémoc","Mujer","24","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","3","3","No","Sí","2","4"
-"2021/11/17 10:01:25 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","40","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","3"
-"2021/11/17 10:09:16 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Mujer","31","No","Privado","Sí","No tengo (0 hijos)","","","","3","4","1","Sí","Sí","3","3"
-"2021/11/17 10:10:52 PM CST","Sí","Muy en desacuerdo","Sí","Iztacalco","Hombre","31","Sí","Público/Colectivo","No","No tengo (0 hijos)","","","","2","2","0","No","Sí","1","3"
-"2021/11/17 10:17:12 PM CST","Sí","Muy en desacuerdo","Sí","Iztapalapa","Mujer","46","Sí","Privado","Sí","2","Sí","No","No","3","2","3","No","Sí","3","3"
-"2021/11/17 10:24:48 PM CST","Sí","En desacuerdo","Sí","No vivo en CDMX","Mujer","40","Sí","Privado","Sí","3","Sí","No","Sí","5","2","2","No","Sí","3","2"
-"2021/11/17 10:25:45 PM CST","Sí","Neutral","Sí","Iztapalapa","Hombre","20","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","4","4","3","No","Sí","3","2"
-"2021/11/17 10:27:08 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","18","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","1","1","No","Sí","1","0"
-"2021/11/17 10:28:43 PM CST","Sí","En desacuerdo","Sí","Iztapalapa","Mujer","41","Sí","Privado","Sí","2","Sí","Sí","No","4","2","2","Sí","Sí","5","4"
-"2021/11/17 10:31:27 PM CST","Sí","Neutral","Sí","Iztapalapa","Mujer","25","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","3","3","No","Sí","3","3"
-"2021/11/17 10:32:43 PM CST","Sí","Muy de acuerdo","Sí","Iztapalapa","Hombre","19","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","1","1","Sí","Sí","1","2"
-"2021/11/17 10:33:12 PM CST","Sí","Neutral","Sí","Cuahutémoc","Mujer","41","Sí","Público/Colectivo","Sí","1","No","No","No","2","1","1","No","Sí","3","2"
-"2021/11/17 10:37:37 PM CST","Sí","Neutral","Sí","Miguel Hidalgo","Mujer","32","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","2","2","1","No","Sí","1","2"
-"2021/11/17 10:38:58 PM CST","Sí","Muy de acuerdo","Sí","Tlalpan","Mujer","60","Sí","Público/Colectivo","Sí","4","Sí","No","No","33","3","0","No","Sí","1","0"
-"2021/11/17 10:41:18 PM CST","Sí","Neutral","Sí","Iztapalapa","Mujer","30 ","No","Privado","Sí","1","No","No","No","6","4","2","Sí","Sí","4","3"
-"2021/11/17 10:41:44 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Mujer","32","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","1","Sí","Sí","2","6"
-"2021/11/17 10:42:17 PM CST","Sí","Muy en desacuerdo","Sí","No vivo en CDMX","Mujer","30","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","8","4","3","Sí","Sí","2","3"
-"2021/11/17 10:46:20 PM CST","Sí","En desacuerdo","Sí","Iztapalapa","Mujer","46","Sí","Público/Colectivo","Sí","2","No","No","No","5","3","4","Sí","Sí","3","2"
-"2021/11/17 10:47:14 PM CST","Sí","De acuerdo","Sí","Iztapalapa","Mujer","38","Sí","Privado","Sí","1","Sí","No","Sí","6","3","2","Sí","Sí","5","3"
-"2021/11/17 10:49:03 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","29","Sí","Privado","No","No tengo (0 hijos)","","","","5","4","4","Sí","Sí","3","5"
-"2021/11/17 10:50:03 PM CST","Sí","En desacuerdo","Sí","Venustiano Carranza","Mujer","44","No","Público/Colectivo","Sí","1","Sí","Sí","No","3","2","2","No","Sí","1","2"
-"2021/11/17 10:51:01 PM CST","Sí","De acuerdo","Sí","Azcapotzalco","Mujer","48","No","Privado","Sí","No tengo (0 hijos)","","","","3","2","1","Sí","Sí","3","3"
-"2021/11/17 10:52:09 PM CST","Sí","De acuerdo","Sí","Xochimilco","Mujer","34","Sí","Privado","No","2","Sí","Sí","Sí","4","2","2","No","Sí","3","4"
-"2021/11/17 10:55:10 PM CST","Sí","Neutral","Sí","Benito Juárez","Hombre","36","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","Sí","Sí","2","6"
-"2021/11/17 10:55:28 PM CST","Sí","En desacuerdo","Sí","Iztacalco","Mujer","33","Sí","Privado","No","No tengo (0 hijos)","","","","6","6","6","Sí","Sí","3","8"
-"2021/11/17 10:55:33 PM CST","Sí","De acuerdo","Sí","Iztapalapa","Mujer","48 ","No","Público/Colectivo","Sí","3","No","No","Sí","5 ","3 ","2 ","No","Sí","3 ","1"
-"2021/11/17 10:55:42 PM CST","Sí","En desacuerdo","Sí","Iztapalapa","Mujer","19","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","3","1","Sí","Sí","3","3"
-"2021/11/17 11:00:30 PM CST","Sí","Muy en desacuerdo","Sí","Iztapalapa","Mujer","47","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","2","2","2","Sí","Sí","2","1"
-"2021/11/17 11:03:16 PM CST","Sí","Neutral","Sí","Iztapalapa","Mujer","34","Sí","Público/Colectivo","Sí","3","No","No","Sí","5","2","1","No","Sí","2","0"
-"2021/11/17 11:09:43 PM CST","Sí","En desacuerdo","Sí","No vivo en CDMX","Hombre","46","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","6","3","2","Sí","Sí","2","1"
-"2021/11/17 11:10:14 PM CST","Sí","Neutral","Sí","Benito Juárez","Mujer","36","No","Privado","Sí","1","Sí","No","Sí","21","1","0","No","Sí","2","2"
-"2021/11/17 11:11:13 PM CST","Sí","En desacuerdo","Sí","Iztapalapa","Mujer","21","Sí","Privado","Sí","No tengo (0 hijos)","","","","3","1","1","Sí","Sí","1","2"
-"2021/11/17 11:13:18 PM CST","Sí","Neutral","Sí","Iztapalapa","Mujer","46","Sí","Público/Colectivo","Sí","2","No","No","Sí","4","1","4","Sí","Sí","2","1"
-"2021/11/17 11:16:27 PM CST","Sí","Muy de acuerdo","Sí","Iztapalapa","Mujer","41","Sí","Público/Colectivo","Sí","1","Sí","No","No","4","3","0","Sí","Sí","2","2"
-"2021/11/17 11:25:00 PM CST","Sí","De acuerdo","Sí","Iztapalapa","Mujer","43","Sí","Público/Colectivo","Sí","2","No","Sí","No","3","1","1","No","Sí","2","2"
-"2021/11/17 11:27:34 PM CST","Sí","Neutral","Sí","Cuahutémoc","Hombre","29","Sí","Público/Colectivo","Sí","1","No","Sí","No","3","2","1","Sí","Sí","2","2"
-"2021/11/17 11:31:29 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","43","Sí","Público/Colectivo","Sí","2","No","No","No","3","1","1","Sí","Sí","2","1"
-"2021/11/17 11:31:45 PM CST","Sí","En desacuerdo","Sí","Coyoacán","Mujer","24","Sí","Privado","Sí","No tengo (0 hijos)","","","","3","2","3","No","Sí","2","3"
-"2021/11/17 11:49:28 PM CST","Sí","En desacuerdo","Sí","Coyoacán","Mujer","62","Sí","Privado","Sí","1","Sí","No","No","2","1","1","Sí","Sí","3","2"
-"2021/11/17 11:58:22 PM CST","Sí","Muy de acuerdo","Sí","No vivo en CDMX","Mujer","65","Sí","Privado","Sí","No tengo (0 hijos)","","","","1","2","0","Sí","Sí","1","2"
-"2021/11/18 12:13:43 AM CST","Sí","Muy de acuerdo","No","No vivo en CDMX","Hombre","18","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","1","1","No","Sí","1","3"
-"2021/11/18 1:01:55 AM CST","Sí","En desacuerdo","Sí","Gustavo A. Madero","Mujer","41","Sí","Privado","Sí","2","No","Sí","Sí","4","2","2","No","Sí","1","5"
-"2021/11/18 5:32:54 AM CST","Sí","De acuerdo","Sí","Iztapalapa","Hombre","47","No","Privado","Sí","2","No","No","Sí","3","2","0","Sí","Sí","2","2"
-"2021/11/18 5:49:56 AM CST","Sí","De acuerdo","Sí","Iztapalapa","Mujer","43","Sí","Privado","Sí","2","No","No","No","3","2","1","Sí","Sí","3","1"
-"2021/11/18 5:51:57 AM CST","Sí","En desacuerdo","Sí","Iztapalapa","Mujer","59","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","3","1","Sí","Sí","1","1"
-"2021/11/18 6:56:05 AM CST","Sí","Muy de acuerdo","Sí","Benito Juárez","Hombre","70","Sí","Privado","Sí","4","Sí","No","No","4","3","3","No","Sí","2","5"
-"2021/11/18 7:23:27 AM CST","Sí","De acuerdo","Sí","Benito Juárez","Mujer","30","No","Público/Colectivo","Sí","No tengo (0 hijos)","","","","5","2","1","Sí","Sí","1","2"
-"2021/11/18 7:36:06 AM CST","Sí","Muy de acuerdo","Sí","No vivo en CDMX","Mujer","60","Sí","Privado","Sí","2","Sí","No","No","2","2","2","Sí","Sí","3","3"
-"2021/11/18 7:38:20 AM CST","Sí","De acuerdo","Sí","Iztacalco","Mujer","44","Sí","Privado","Sí","2","Sí","No","Sí","5","3","4","Sí","Sí","2","4"
-"2021/11/18 8:14:21 AM CST","Sí","De acuerdo","Sí","Coyoacán","Hombre","61","Sí","Privado","Sí","1","No","No","No","2","1","2","Sí","Sí","3","2"
-"2021/11/18 8:23:08 AM CST","Sí","De acuerdo","Sí","Xochimilco","Mujer","32","Sí","Privado","No","1","Sí","No","No","3","2","2","No","Sí","4","3"
-"2021/11/18 8:31:35 AM CST","Sí","En desacuerdo","Sí","Benito Juárez","Mujer","34","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","Sí","Sí","2","3"
-"2021/11/18 8:40:22 AM CST","Sí","Neutral","Sí","Gustavo A. Madero","Mujer","48","No","Público/Colectivo","Sí","2","Sí","No","No","8","4","3","Sí","Sí","3","4"
-"2021/11/18 9:27:01 AM CST","Sí","Muy de acuerdo","Sí","Benito Juárez","Mujer","33","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","1","4"
-"2021/11/18 9:30:52 AM CST","Sí","Neutral","Sí","Xochimilco","Mujer","22","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","4","2","1","No","Sí","3","2"
-"2021/11/18 9:33:39 AM CST","Sí","En desacuerdo","Sí","Benito Juárez","Hombre","25","Sí","Público/Colectivo","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","3"
-"2021/11/18 9:58:03 AM CST","Sí","De acuerdo","Sí","Iztapalapa","Mujer","29","No","Público/Colectivo","Sí","No tengo (0 hijos)","","","","8","4","2","No","Sí","2","2"
-"2021/11/18 10:42:11 AM CST","Sí","De acuerdo","Sí","Miguel Hidalgo","Mujer","31","No","Privado","No","No tengo (0 hijos)","","","","1","1","0","No","Sí","1","2"
-"2021/11/18 10:54:21 AM CST","Sí","De acuerdo","No","Iztacalco","Hombre","41","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","1","2","No","Sí","2","5"
-"2021/11/18 10:58:31 AM CST","Sí","En desacuerdo","Sí","Benito Juárez","Hombre","29","Sí","Privado","No","1","No","Sí","No","2","1","1","No","Sí","1","3"
-"2021/11/18 11:01:21 AM CST","Sí","De acuerdo","Sí","Azcapotzalco","Hombre","41","Sí","Privado","Sí","1","Sí","No","No","3","2","2","Sí","Sí","3","3"
-"2021/11/18 11:12:01 AM CST","Sí","En desacuerdo","Sí","Benito Juárez","Mujer","48","Sí","Privado","Sí","1","No","No","No","3","1","1","Sí","Sí","2","2"
-"2021/11/18 11:13:17 AM CST","Sí","Neutral","Sí","Iztacalco","Mujer","25","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","2","2","Sí","Sí","1","1"
-"2021/11/18 11:14:19 AM CST","Sí","Neutral","Sí","Benito Juárez","Mujer","25","No","Público/Colectivo","Sí","No tengo (0 hijos)","","","","10","6","1","Sí","No","2","1"
-"2021/11/18 11:15:55 AM CST","Sí","De acuerdo","Sí","Cuahutémoc","Mujer","33","Sí","Privado","Sí","No tengo (0 hijos)","","","","3","3","3","No","Sí","3","4"
-"2021/11/18 11:16:51 AM CST","Sí","Neutral","Sí","No vivo en CDMX","Mujer","19","Sí","Privado","No","No tengo (0 hijos)","","","","3","1","0","Sí","Sí","2","2"
-"2021/11/18 11:24:22 AM CST","Sí","De acuerdo","Sí","Coyoacán","Hombre","29","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","4","4","3","Sí","Sí","3","2"
-"2021/11/18 11:24:40 AM CST","Sí","Neutral","Sí","Coyoacán","Mujer","31","Sí","Privado","Sí","No tengo (0 hijos)","","","","4","4","1","Sí","Sí","3","3"
-"2021/11/18 11:30:16 AM CST","Sí","En desacuerdo","Sí","Xochimilco","Hombre","25","Sí","Privado","No","No tengo (0 hijos)","","","","3","3","2","Sí","Sí","5","7"
-"2021/11/18 11:32:31 AM CST","Sí","De acuerdo","Sí","Álvaro Obregón","Mujer","26","No","Privado","No","No tengo (0 hijos)","","","","3","3","1","Sí","Sí","2","5"
-"2021/11/18 11:39:26 AM CST","Sí","En desacuerdo","Sí","Álvaro Obregón","Mujer","29","No","Privado","No","No tengo (0 hijos)","","","","3","2","0","No","Sí","8","4"
-"2021/11/18 11:40:01 AM CST","Sí","Neutral","Sí","Iztapalapa","Mujer","25","Sí","Privado","Sí","2","No","Sí","No","5","1","4","Sí","Sí","1","3"
-"2021/11/18 11:45:50 AM CST","Sí","De acuerdo","Sí","Coyoacán","Mujer","37","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","1","2"
-"2021/11/18 11:48:21 AM CST","Sí","Neutral","Sí","Álvaro Obregón","Mujer","29","Sí","Privado","No","No tengo (0 hijos)","","","","3","3","1","Sí","Sí","1","3"
-"2021/11/18 11:48:57 AM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","30","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","3"
-"2021/11/18 11:50:07 AM CST","Sí","De acuerdo","Sí","Álvaro Obregón","Mujer","28","Sí","Privado","Sí","No tengo (0 hijos)","","","","4","3","2","Sí","Sí","3","6"
-"2021/11/18 11:52:56 AM CST","Sí","De acuerdo","Sí","Cuajimalpa","Mujer","27","Sí","Privado","No","No tengo (0 hijos)","","","","4","4","2","Sí","Sí","4","6"
-"2021/11/18 11:53:09 AM CST","Sí","Muy de acuerdo","Sí","Álvaro Obregón","Hombre","30","Sí","Privado","Sí","No tengo (0 hijos)","","","","3","2","2","Sí","Sí","3","5"
-"2021/11/18 11:54:50 AM CST","Sí","En desacuerdo","Sí","Benito Juárez","Hombre","30","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","3"
-"2021/11/18 11:55:51 AM CST","Sí","Neutral","Sí","Álvaro Obregón","Hombre","29","Sí","Público/Colectivo","No","No tengo (0 hijos)","","","","2","2","2","Sí","Sí","5","3"
-"2021/11/18 11:56:17 AM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","29","No","Privado","Sí","No tengo (0 hijos)","","","","1","1","1","No","Sí","1","1"
-"2021/11/18 11:57:01 AM CST","Sí","Muy de acuerdo","Sí","Álvaro Obregón","Hombre","29","Sí","Privado","No","No tengo (0 hijos)","","","","3","2","2","No","Sí","2","4"
-"2021/11/18 12:00:02 PM CST","Sí","Neutral","Sí","Benito Juárez","Mujer","29","Sí","Privado","Sí","No tengo (0 hijos)","","","","4","2","2","Sí","Sí","2","2"
-"2021/11/18 12:02:16 PM CST","Sí","Muy de acuerdo","Sí","No vivo en CDMX","Hombre","18","Sí","Privado","No","No tengo (0 hijos)","","","","2","0","1","Sí","Sí","3","4"
-"2021/11/18 12:02:38 PM CST","Sí","De acuerdo","Sí","Miguel Hidalgo","Mujer","31","Sí","Privado","No","No tengo (0 hijos)","","","","3","3","3","No","Sí","1","8"
-"2021/11/18 12:16:22 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Hombre","39","Sí","Privado","Sí","No tengo (0 hijos)","","","","4","2","4","Sí","Sí","3","4"
-"2021/11/18 12:26:39 PM CST","Sí","De acuerdo","Sí","Miguel Hidalgo","Hombre","33","No","Público/Colectivo","No","No tengo (0 hijos)","","","","2","2","1","No","Sí","1","2"
-"2021/11/18 12:27:48 PM CST","Sí","Muy de acuerdo","No","Cuahutémoc","Hombre","28","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","3"
-"2021/11/18 12:59:22 PM CST","Sí","De acuerdo","Sí","Milpa Alta","Mujer","33 ","Sí","Público/Colectivo","Sí","2","Sí","Sí","No","3","0","0","Sí","Sí","1","0"
-"2021/11/18 1:11:47 PM CST","Sí","En desacuerdo","Sí","Álvaro Obregón","Hombre","26","Sí","Privado","No","No tengo (0 hijos)","","","","4","2","2","No","Sí","3","5"
-"2021/11/18 1:13:04 PM CST","Sí","De acuerdo","Sí","Álvaro Obregón","Mujer","24","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","5"
-"2021/11/18 1:15:59 PM CST","Sí","En desacuerdo","Sí","Cuahutémoc","Mujer","36","Sí","Público/Colectivo","No","No tengo (0 hijos)","","","","1","1","0","No","Sí","0","2"
-"2021/11/18 1:16:34 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","25","Sí","Privado","No","No tengo (0 hijos)","","","","3","3","3","No","Sí","4","6"
-"2021/11/18 1:17:02 PM CST","Sí","En desacuerdo","Sí","No vivo en CDMX","Hombre","26","Sí","Privado","No","No tengo (0 hijos)","","","","5","3","1","Sí","Sí","5","4"
-"2021/11/18 1:17:54 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","23","Sí","Privado","No","No tengo (0 hijos)","","","","6","3","3","No","Sí","4","9"
-"2021/11/18 1:19:46 PM CST","Sí","Muy de acuerdo","Sí","Coyoacán","Hombre","26","Sí","Privado","No","No tengo (0 hijos)","","","","3","1","1","Sí","Sí","3","4"
-"2021/11/18 1:26:28 PM CST","Sí","Neutral","Sí","Álvaro Obregón","Hombre","29","Sí","Público/Colectivo","No","No tengo (0 hijos)","","","","1","1","0","No","Sí","2","2"
-"2021/11/18 1:35:14 PM CST","Sí","De acuerdo","Sí","Álvaro Obregón","Mujer","57","Sí","Privado","Sí","2","No","No","No","3","3","2","No","Sí","1","5"
-"2021/11/18 1:43:18 PM CST","Sí","En desacuerdo","Sí","Tlalpan","Mujer","25","Sí","Privado","Sí","No tengo (0 hijos)","","","","5","3","3","No","Sí","3","5"
-"2021/11/18 1:43:40 PM CST","Sí","De acuerdo","Sí","Coyoacán","Hombre","28","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","1","3"
-"2021/11/18 1:48:00 PM CST","Sí","Neutral","Sí","No vivo en CDMX","Hombre","25","No","Privado","No","No tengo (0 hijos)","","","","1","1","1","No","Sí","4","2"
-"2021/11/18 1:51:14 PM CST","Sí","De acuerdo","Sí","Miguel Hidalgo","Hombre","29","No","Público/Colectivo","No","No tengo (0 hijos)","","","","1","1","1","No","Sí","2","2"
-"2021/11/18 1:51:14 PM CST","Sí","De acuerdo","Sí","Miguel Hidalgo","Hombre","29","No","Público/Colectivo","No","No tengo (0 hijos)","","","","1","1","1","No","Sí","2","2"
-"2021/11/18 1:53:32 PM CST","Sí","Muy de acuerdo","Sí","Magdalena Contreras","Hombre","41","Sí","Privado","No","3","Sí","Sí","No","5","2","1","Sí","Sí","2","6"
-"2021/11/18 1:59:54 PM CST","Sí","De acuerdo","Sí","Álvaro Obregón","Mujer","44","Sí","Privado","No","3","Sí","Sí","No","5","2","1","No","Sí","1","6"
-"2021/11/18 2:00:44 PM CST","Sí","Muy de acuerdo","Sí","Álvaro Obregón","Mujer","50","No","Privado","No","1","No","Sí","No","3","2","2","No","Sí","3","3"
-"2021/11/18 2:03:35 PM CST","Sí","En desacuerdo","Sí","No vivo en CDMX","Hombre","26","Sí","Privado","Sí","No tengo (0 hijos)","","","","3","3","3","No","Sí","2","2"
-"2021/11/18 2:04:54 PM CST","Sí","Muy en desacuerdo","Sí","No vivo en CDMX","Hombre","26","Sí","Privado","No","No tengo (0 hijos)","","","","5","4","2","Sí","Sí","2","5"
-"2021/11/18 2:05:34 PM CST","Sí","De acuerdo","Sí","Álvaro Obregón","Hombre","25","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","1","No","Sí","3","4"
-"2021/11/18 2:18:56 PM CST","Sí","Muy en desacuerdo","Sí","Álvaro Obregón","Hombre","51","Sí","Privado","Sí","1","Sí","No","No","3","2","3","No","Sí","2","4"
-"2021/11/18 2:22:58 PM CST","No","","","","","","","","","","","","","","","","","","",""
-"2021/11/18 2:30:57 PM CST","Sí","Muy de acuerdo","Sí","Benito Juárez","Mujer","56","Sí","Privado","No","3","No","No","No","2","4","0","No","Sí","1","4"
-"2021/11/18 2:39:15 PM CST","Sí","En desacuerdo","Sí","Benito Juárez","Mujer","43","Sí","Privado","Sí","1","Sí","No","No","3","2","3","No","Sí","2","2"
-"2021/11/18 2:39:34 PM CST","Sí","En desacuerdo","Sí","Álvaro Obregón","Mujer","52","Sí","Privado","No","3","No","Sí","No","4","2","1","No","Sí","1","3"
-"2021/11/18 2:47:27 PM CST","Sí","Muy de acuerdo","Sí","Álvaro Obregón","Mujer","64","Sí","Privado","No","3","Sí","No","No","3","2","2","No","Sí","2","3"
-"2021/11/18 2:50:49 PM CST","Sí","Muy de acuerdo","Sí","Álvaro Obregón","Mujer","55","Sí","Privado","No","No tengo (0 hijos)","","","","1","1","1","Sí","Sí","1","1"
-"2021/11/18 2:52:11 PM CST","Sí","Muy de acuerdo","Sí","Álvaro Obregón","Mujer","51","Sí","Privado","No","2","Sí","No","Sí","4","1","1","No","Sí","3","6"
-"2021/11/18 2:53:09 PM CST","Sí","Muy de acuerdo","Sí","Álvaro Obregón","Mujer","42","Sí","Privado","Sí","1","Sí","No","No","3","1","1","Sí","Sí","6","6"
-"2021/11/18 2:54:36 PM CST","Sí","En desacuerdo","Sí","Magdalena Contreras","Hombre","58","Sí","Privado","Sí","4","Sí","Sí","Sí","4","2","2","Sí","Sí","2","5"
-"2021/11/18 3:17:55 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","29","Sí","Público/Colectivo","No","No tengo (0 hijos)","","","","4","4","1","Sí","Sí","3","7"
-"2021/11/18 3:21:34 PM CST","Sí","De acuerdo","Sí","Cuahutémoc","Hombre","47","Sí","Público/Colectivo","Sí","2","Sí","No","Sí","4","2","2","No","Sí","1","3"
-"2021/11/18 3:25:24 PM CST","Sí","En desacuerdo","No","Álvaro Obregón","Mujer","60","Sí","Privado","No","2","No","No","No","2","2","1","No","Sí","2","3"
-"2021/11/18 3:26:06 PM CST","Sí","De acuerdo","Sí","Cuajimalpa","Hombre","28","Sí","Privado","No","No tengo (0 hijos)","","","","5","3","3","Sí","Sí","1","5"
-"2021/11/18 3:29:55 PM CST","Sí","Muy de acuerdo","Sí","Álvaro Obregón","Mujer","59","No","Privado","No","3","No","No","No","4","4","4","No","Sí","3","4"
-"2021/11/18 3:30:29 PM CST","Sí","En desacuerdo","Sí","Álvaro Obregón","Mujer","59","Sí","Privado","No","3","No","No","No","5","2","1","Sí","Sí","2","6"
-"2021/11/18 3:31:56 PM CST","Sí","Muy de acuerdo","Sí","Álvaro Obregón","Mujer","50","Sí","Privado","No","4","Sí","Sí","No","7","3","0","Sí","Sí","4","5"
-"2021/11/18 3:32:33 PM CST","Sí","De acuerdo","Sí","Miguel Hidalgo","Mujer","40","Sí","Privado","Sí","2","Sí","Sí","No","4","2","1","Sí","Sí","2","3"
-"2021/11/18 3:35:58 PM CST","Sí","De acuerdo","No","Álvaro Obregón","Mujer","48","Sí","Privado","Sí","1","Sí","No","No","3","2","2","Sí","Sí","2","5"
-"2021/11/18 3:36:57 PM CST","Sí","Neutral","No","No vivo en CDMX","Hombre","28","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","5"
-"2021/11/18 3:40:03 PM CST","Sí","Muy de acuerdo","Sí","Magdalena Contreras","Mujer","38","Sí","Privado","No","2","Sí","Sí","No","4","2","1","No","Sí","1","2"
-"2021/11/18 3:45:45 PM CST","Sí","Muy de acuerdo","Sí","Álvaro Obregón","Mujer","54","Sí","Privado","No","3","Sí","No","No","4","4","2","No","Sí","3","4"
-"2021/11/18 4:04:41 PM CST","Sí","En desacuerdo","Sí","Miguel Hidalgo","Mujer","53","Sí","Privado","Sí","2","No","No","No","3","2","2","Sí","Sí","3","3"
-"2021/11/18 4:06:05 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","31","Sí","Privado","No","No tengo (0 hijos)","","","","1","1","0","No","Sí","3","1"
-"2021/11/18 4:14:51 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","36","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","Sí","Sí","2","6"
-"2021/11/18 4:15:37 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","24","No","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","1","2"
-"2021/11/18 4:18:06 PM CST","Sí","En desacuerdo","No","Álvaro Obregón","Mujer","53","Sí","Privado","Sí","2","No","No","No","4","2","0","Sí","Sí","1","4"
-"2021/11/18 4:25:12 PM CST","Sí","Muy en desacuerdo","Sí","Miguel Hidalgo","Mujer","25","Sí","Privado","No","No tengo (0 hijos)","","","","3","2","2","Sí","Sí","5","10"
-"2021/11/18 4:31:19 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","33","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","3","3","Sí","Sí","3","3"
-"2021/11/18 4:38:48 PM CST","Sí","En desacuerdo","Sí","Coyoacán","Mujer","32","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","2","2","2","Sí","Sí","1","5"
-"2021/11/18 4:41:38 PM CST","Sí","De acuerdo","Sí","Álvaro Obregón","Hombre","36","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","1","4"
-"2021/11/18 4:45:22 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","30","Sí","Privado","No","No tengo (0 hijos)","","","","4","2","2","Sí","Sí","4","5"
-"2021/11/18 4:49:13 PM CST","Sí","Muy de acuerdo","Sí","Magdalena Contreras","Hombre","48","No","Privado","Sí","2","Sí","Sí","No","4","1","1","No","Sí","1","4"
-"2021/11/18 5:04:24 PM CST","Sí","Muy de acuerdo","Sí","Tlalpan","Hombre","36","Sí","Privado","Sí","No tengo (0 hijos)","","","","1","2","2","No","Sí","1","4"
-"2021/11/18 5:06:24 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Hombre","28","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","4"
-"2021/11/18 5:34:25 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","58","Sí","Público/Colectivo","Sí","3","Sí","No","No","3","2","2","No","Sí","1","2"
-"2021/11/18 6:44:07 PM CST","Sí","Muy de acuerdo","Sí","Álvaro Obregón","Mujer","26","Sí","Público/Colectivo","Sí","2","Sí","No","No","4","1","1","No","No","1","0"
-"2021/11/18 6:48:02 PM CST","Sí","De acuerdo","Sí","Álvaro Obregón","Mujer","59","Sí","Privado","No","1","Sí","Sí","No","3","2","2","Sí","Sí","3","6"
-"2021/11/18 6:52:24 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","32","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","1","2"
-"2021/11/18 6:56:16 PM CST","Sí","Neutral","No","Iztapalapa","Hombre","33","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","3","3","No","Sí","4","6"
-"2021/11/18 7:42:11 PM CST","Sí","De acuerdo","Sí","Venustiano Carranza","Mujer","25","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","3","1","Sí","Sí","4","3"
-"2021/11/18 7:43:06 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","43","Sí","Privado","Sí","2","Sí","No","No","4","0","0","Sí","Sí","1","5"
-"2021/11/18 7:47:33 PM CST","Sí","En desacuerdo","Sí","Benito Juárez","Hombre","46","Sí","Privado","Sí","2","No","Sí","No","4","2","2","Sí","Sí","0","4"
-"2021/11/18 8:01:49 PM CST","Sí","De acuerdo","No","No vivo en CDMX","Mujer","50","No","Privado","Sí","2","No","No","No","3","2","0","No","Sí","3","2"
-"2021/11/18 8:16:44 PM CST","Sí","En desacuerdo","Sí","Iztapalapa","Mujer","27","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","4","1","1","Sí","Sí","2","2"
-"2021/11/18 8:23:46 PM CST","Sí","Muy de acuerdo","Sí","Álvaro Obregón","Mujer","46","Sí","Privado","Sí","1","Sí","Sí","No","5","3","2","No","Sí","2","3"
-"2021/11/18 8:24:34 PM CST","Sí","Muy en desacuerdo","Sí","Gustavo A. Madero","Hombre","34","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","3","3","Sí","Sí","1","3"
-"2021/11/18 8:29:11 PM CST","Sí","En desacuerdo","Sí","Álvaro Obregón","Mujer","52","Sí","Privado","Sí","2","No","Sí","No","4","2","2","Sí","Sí","2","4"
-"2021/11/18 8:34:41 PM CST","Sí","En desacuerdo","Sí","Cuajimalpa","Mujer","46","Sí","Privado","Sí","No tengo (0 hijos)","","","","5","3","2","No","Sí","2","2"
-"2021/11/18 8:36:14 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Hombre","25","No","Privado","Sí","No tengo (0 hijos)","","","","4","1","1","Sí","Sí","5","3"
-"2021/11/18 8:40:48 PM CST","Sí","De acuerdo","Sí","Coyoacán","Mujer","32","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","3","2"
-"2021/11/18 8:48:21 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","31","No","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","3","2","No","Sí","1","3"
-"2021/11/18 8:59:12 PM CST","Sí","De acuerdo","Sí","Azcapotzalco","Mujer","47","Sí","Público/Colectivo","Sí","2","No","No","No","5","2","2","Sí","Sí","3","2"
-"2021/11/18 9:02:23 PM CST","Sí","Muy de acuerdo","No","Benito Juárez","Mujer","48","No","Privado","Sí","1","No","Sí","No","2","1","1","No","Sí","2","2"
-"2021/11/18 9:06:31 PM CST","Sí","Neutral","Sí","No vivo en CDMX","Mujer","25","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","4","3","1","Sí","Sí","2","2"
-"2021/11/18 9:08:14 PM CST","Sí","En desacuerdo","Sí","No vivo en CDMX","Mujer","47","Sí","Público/Colectivo","Sí","3","No","No","No","3","2","1","No","Sí","2","4"
-"2021/11/18 9:10:21 PM CST","Sí","Neutral","Sí","No vivo en CDMX","Mujer","47","Sí","Privado","Sí","No tengo (0 hijos)","","","","1","1","1","No","Sí","1","3"
-"2021/11/18 9:14:41 PM CST","Sí","En desacuerdo","Sí","No vivo en CDMX","Mujer","26","Sí","Privado","No","No tengo (0 hijos)","","","","3","3","2","No","Sí","4","3"
-"2021/11/18 9:25:48 PM CST","Sí","Neutral","Sí","Xochimilco","Mujer","48","Sí","Privado","Sí","2","Sí","No","Sí","4","2","1","Sí","Sí","2","2"
-"2021/11/18 9:28:26 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","51 ","Sí","Público/Colectivo","No","2","No","No","No","5","2","0","No","Sí","2","1"
-"2021/11/18 9:28:52 PM CST","Sí","Muy de acuerdo","Sí","No vivo en CDMX","Mujer","47","No","Privado","Sí","2","Sí","No","No","3","1","1","Sí","Sí","3","1"
-"2021/11/18 9:31:10 PM CST","Sí","De acuerdo","Sí","Miguel Hidalgo","Mujer","36","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","2","1","1","No","Sí","1","2"
-"2021/11/18 9:31:38 PM CST","Sí","En desacuerdo","Sí","Azcapotzalco","Mujer","50","Sí","Privado","Sí","2","No","Sí","No","4","2","2","Sí","Sí","3","4"
-"2021/11/18 9:35:51 PM CST","Sí","De acuerdo","Sí","Miguel Hidalgo","Mujer","38","No","Público/Colectivo","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","1","2"
-"2021/11/18 9:49:24 PM CST","Sí","Neutral","No","No vivo en CDMX","Mujer","52","Sí","Público/Colectivo","Sí","1","Sí","Sí","No","4","2","0","Sí","Sí","3","1"
-"2021/11/18 10:19:26 PM CST","Sí","Muy en desacuerdo","Sí","No vivo en CDMX","Hombre","44","Sí","Público/Colectivo","Sí","2","Sí","Sí","No","5","1","1","Sí","Sí","4","5"
-"2021/11/18 10:24:50 PM CST","Sí","Neutral","Sí","No vivo en CDMX","Hombre","45","Sí","Privado","Sí","1","Sí","No","No","2","2","2","No","Sí","4","9"
-"2021/11/18 10:25:31 PM CST","Sí","Neutral","Sí","Azcapotzalco","Hombre","30","Sí","Privado","Sí","No tengo (0 hijos)","","","","1","1","0","No","Sí","4","2"
-"2021/11/18 11:09:27 PM CST","Sí","De acuerdo","Sí","Iztapalapa","Mujer","45","Sí","Público/Colectivo","Sí","2","No","No","No","3","1","1","No","Sí","1","1"
-"2021/11/18 11:23:13 PM CST","Sí","Neutral","Sí","Cuajimalpa","Mujer","28","Sí","Privado","No","No tengo (0 hijos)","","","","4","1","1","Sí","Sí","1","5"
-"2021/11/19 12:44:53 AM CST","Sí","Neutral","Sí","Benito Juárez","Mujer","42","Sí","Privado","Sí","2","Sí","No","Sí","4","2","2","No","Sí","5","4"
-"2021/11/19 1:36:15 AM CST","Sí","Muy de acuerdo","No","Gustavo A. Madero","Mujer","58","Sí","Privado","No","2","No","No","No","3","0","0","No","Sí","2","3"
-"2021/11/19 5:53:23 AM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","27","Sí","Privado","No","1","No","No","No","3","1","2","No","Sí","1","1"
-"2021/11/19 7:45:14 AM CST","Sí","Muy en desacuerdo","Sí","Azcapotzalco","Mujer","43","Sí","Privado","Sí","1","No","No","Sí","3","2","0","Sí","Sí","3","4"
-"2021/11/19 7:53:16 AM CST","Sí","En desacuerdo","No","Miguel Hidalgo","Mujer","32","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","4"
-"2021/11/19 8:23:27 AM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","36","No","Privado","Sí","2","No","No","No","4","2","2","Sí","Sí","2","3"
-"2021/11/19 8:38:08 AM CST","Sí","De acuerdo","Sí","Azcapotzalco","Hombre","59","Sí","Privado","Sí","1","Sí","No","No","3","1","1","Sí","Sí","4","4"
-"2021/11/19 8:40:30 AM CST","Sí","De acuerdo","Sí","Azcapotzalco","Hombre","59","Sí","Privado","Sí","1","Sí","No","No","3","3","1","Sí","Sí","4","4"
-"2021/11/19 8:55:17 AM CST","Sí","Muy en desacuerdo","Sí","Benito Juárez","Mujer","34","No","Privado","Sí","No tengo (0 hijos)","","","","2","2","1","Sí","Sí","2","0"
-"2021/11/19 8:57:10 AM CST","Sí","De acuerdo","Sí","Benito Juárez","Hombre","32","Sí","Privado","No","No tengo (0 hijos)","","","","1","1","1","No","Sí","1","4"
-"2021/11/19 9:28:29 AM CST","Sí","De acuerdo","Sí","Benito Juárez","Mujer","20","Sí","Privado","No","No tengo (0 hijos)","","","","3","3","1","No","Sí","1","4"
-"2021/11/19 9:46:47 AM CST","Sí","Neutral","No","Álvaro Obregón","Mujer","57","No","Privado","Sí","2","No","No","No","4","2","2","No","Sí","3","4"
-"2021/11/19 9:58:38 AM CST","Sí","De acuerdo","Sí","Cuahutémoc","Mujer","31","Sí","Público/Colectivo","No","No tengo (0 hijos)","","","","2","1","1","Sí","Sí","3","4"
-"2021/11/19 9:58:43 AM CST","Sí","De acuerdo","Sí","Álvaro Obregón","Mujer","35","Sí","Público/Colectivo","No","2","Sí","Sí","No","4","2","1","Sí","Sí","4","9"
-"2021/11/19 10:16:11 AM CST","Sí","Muy de acuerdo","Sí","Gustavo A. Madero","Mujer","29","No","Público/Colectivo","Sí","No tengo (0 hijos)","","","","5","3","3","Sí","Sí","3","5"
-"2021/11/19 10:28:14 AM CST","Sí","Muy en desacuerdo","Sí","Miguel Hidalgo","Hombre","36","Sí","Público/Colectivo","Sí","1","No","Sí","No","3","2","3","No","Sí","2","2"
-"2021/11/19 11:13:23 AM CST","Sí","Neutral","Sí","Benito Juárez","Mujer","30","Sí","Privado","No","No tengo (0 hijos)","","","","1","2","1","No","Sí","3","2"
-"2021/11/19 11:41:50 AM CST","Sí","En desacuerdo","Sí","Miguel Hidalgo","Mujer","32","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","1","5"
-"2021/11/19 12:51:03 PM CST","Sí","Muy de acuerdo","Sí","Gustavo A. Madero","Mujer","50","Sí","Privado","No","1","No","No","No","3","1","1","Sí","Sí","4","5"
-"2021/11/19 12:53:43 PM CST","Sí","De acuerdo","No","Gustavo A. Madero","Mujer","34","No","Privado","Sí","2","Sí","Sí","No","4","1","1","Sí","Sí","3","2"
-"2021/11/19 1:39:36 PM CST","Sí","De acuerdo","Sí","Cuahutémoc","Hombre","34","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","2","No","Sí","1","4"
-"2021/11/19 2:56:51 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Mujer","33","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","2"
-"2021/11/19 3:17:14 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Mujer","30","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","1","1","1","No","Sí","1","3"
-"2021/11/19 3:58:27 PM CST","Sí","En desacuerdo","Sí","Iztapalapa","Mujer","48","Sí","Público/Colectivo","Sí","1","No","No","Sí","3","2","2","No","Sí","1","2"
-"2021/11/19 4:05:35 PM CST","Sí","Muy de acuerdo","Sí","No vivo en CDMX","Hombre","26","Sí","Privado","Sí","No tengo (0 hijos)","","","","3","2","3","No","Sí","1","3"
-"2021/11/19 4:08:12 PM CST","Sí","Muy en desacuerdo","Sí","Iztapalapa","Mujer","55 ","Sí","Público/Colectivo","Sí","1","No","Sí","No","1","1","1","Sí","Sí","2","2"
-"2021/11/19 4:17:13 PM CST","Sí","De acuerdo","Sí","No vivo en CDMX","Mujer","46","Sí","Público/Colectivo","Sí","2","Sí","Sí","No","4","1","4","No","Sí","2","2"
-"2021/11/19 4:43:48 PM CST","Sí","Muy de acuerdo","Sí","Iztapalapa","Hombre","41","Sí","Privado","Sí","1","Sí","No","Sí","3","2","2","No","Sí","3","5"
-"2021/11/19 4:59:01 PM CST","Sí","Muy de acuerdo","Sí","Gustavo A. Madero","Mujer","47","No","Público/Colectivo","Sí","2","No","Sí","Sí","5","2","0","Sí","Sí","1","0"
-"2021/11/19 5:15:04 PM CST","Sí","De acuerdo","Sí","Cuahutémoc","Mujer","30","Sí","Privado","No","No tengo (0 hijos)","","","","4","3","2","Sí","Sí","2","6"
-"2021/11/19 5:35:51 PM CST","Sí","De acuerdo","Sí","Coyoacán","Mujer","60","Sí","Privado","Sí","2","Sí","No","No","2","2","1","No","Sí","2","2"
-"2021/11/19 5:39:38 PM CST","Sí","Muy de acuerdo","Sí","Iztapalapa","Mujer","48","Sí","Público/Colectivo","Sí","2","No","No","Sí","4","2","1","No","Sí","2","2"
-"2021/11/19 6:25:23 PM CST","Sí","Muy en desacuerdo","Sí","Álvaro Obregón","Hombre","28","Sí","Privado","No","No tengo (0 hijos)","","","","3","1","1","No","Sí","1","6"
-"2021/11/19 6:31:30 PM CST","Sí","Muy de acuerdo","Sí","Álvaro Obregón","Hombre","94","Sí","Privado","Sí","3","No","No","No","1","0","0","Sí","Sí","2","2"
-"2021/11/19 6:59:08 PM CST","Sí","Neutral","Sí","Miguel Hidalgo","Hombre","33","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","2"
-"2021/11/19 7:06:50 PM CST","Sí","De acuerdo","Sí","Gustavo A. Madero","Mujer","46","Sí","Público/Colectivo","Sí","2","No","No","Sí","4","2","4","No","Sí","2","5"
-"2021/11/19 7:14:34 PM CST","Sí","Neutral","Sí","Benito Juárez","Hombre","31","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","4"
-"2021/11/19 7:19:14 PM CST","Sí","Muy de acuerdo","Sí","Benito Juárez","Mujer","50","Sí","Privado","Sí","2","Sí","Sí","Sí","4","1","1","No","Sí","3","3"
-"2021/11/19 7:25:39 PM CST","Sí","Neutral","Sí","Gustavo A. Madero","Mujer","46","Sí","Público/Colectivo","Sí","1","Sí","Sí","No","3","2","1","No","Sí","1","4"
-"2021/11/19 7:55:37 PM CST","Sí","Muy de acuerdo","Sí","Iztapalapa","Mujer","23","Sí","Público/Colectivo","Sí","1","Sí","Sí","No","4","3","2","No","Sí","3","3"
-"2021/11/19 7:56:13 PM CST","Sí","Muy de acuerdo","Sí","Benito Juárez","Hombre","57","Sí","Público/Colectivo","Sí","1","Sí","No","No","3","1","3","Sí","Sí","3","1"
-"2021/11/19 8:04:13 PM CST","Sí","De acuerdo","Sí","Álvaro Obregón","Mujer","28","Sí","Privado","No","No tengo (0 hijos)","","","","5","3","4","No","Sí","4","5"
-"2021/11/19 9:01:08 PM CST","Sí","En desacuerdo","No","No vivo en CDMX","Mujer","31","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","3","3","3","Sí","Sí","4","3"
-"2021/11/19 9:05:37 PM CST","Sí","En desacuerdo","Sí","Benito Juárez","Mujer","48","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","4","2","2","Sí","Sí","2","2"
-"2021/11/19 9:29:18 PM CST","Sí","Muy en desacuerdo","Sí","Coyoacán","Mujer","30","Sí","Privado","Sí","2","Sí","Sí","Sí","4","2","4","Sí","Sí","3","6"
-"2021/11/19 9:33:16 PM CST","Sí","Muy en desacuerdo","Sí","Gustavo A. Madero","Hombre","24","No","Público/Colectivo","Sí","1","Sí","Sí","No","3","1","1","No","Sí","2","1"
-"2021/11/19 9:42:50 PM CST","Sí","De acuerdo","Sí","Cuahutémoc","Mujer","45","Sí","Privado","No","No tengo (0 hijos)","","","","1","1","1","No","Sí","1","2"
-"2021/11/19 9:44:38 PM CST","Sí","Neutral","Sí","Gustavo A. Madero","Mujer","35","Sí","Privado","Sí","No tengo (0 hijos)","","","","3","2","3","Sí","Sí","5","3"
-"2021/11/19 9:58:06 PM CST","Sí","De acuerdo","Sí","Iztapalapa","Mujer","45","Sí","Público/Colectivo","Sí","2","No","No","Sí","4","2","2","No","Sí","3","4"
-"2021/11/19 10:04:57 PM CST","Sí","Neutral","Sí","Iztapalapa","Hombre","57","No","Público/Colectivo","Sí","1","No","No","No","3","2","2","Sí","Sí","1","1"
-"2021/11/19 10:17:19 PM CST","Sí","En desacuerdo","Sí","Iztapalapa","Mujer","53","No","Público/Colectivo","Sí","1","No","No","No","2","1","1","Sí","Sí","2","2"
-"2021/11/19 10:26:16 PM CST","Sí","De acuerdo","Sí","Iztapalapa","Mujer","52","Sí","Privado","Sí","2","No","No","No","2","1","1","Sí","Sí","2","2"
-"2021/11/19 10:29:55 PM CST","Sí","Muy de acuerdo","Sí","Gustavo A. Madero","Mujer","49","No","Privado","Sí","2","Sí","Sí","Sí","4","1","0","No","Sí","3","1"
-"2021/11/19 10:52:20 PM CST","Sí","En desacuerdo","Sí","No vivo en CDMX","Mujer","62 ","Sí","Público/Colectivo","Sí","2","Sí","No","No","2","2","2","Sí","Sí","3","2"
-"2021/11/19 10:54:31 PM CST","Sí","En desacuerdo","Sí","No vivo en CDMX","Mujer","62","Sí","Público/Colectivo","Sí","2","Sí","No","No","2","2","2","Sí","Sí","3","2"
-"2021/11/19 10:56:24 PM CST","Sí","En desacuerdo","Sí","Miguel Hidalgo","Mujer","50","Sí","Privado","Sí","1","No","No","Sí","3","2","3","Sí","Sí","3","6"
-"2021/11/19 11:14:30 PM CST","Sí","De acuerdo","No","Álvaro Obregón","Hombre","25","Sí","Público/Colectivo","No","No tengo (0 hijos)","","","","3","1","2","Sí","Sí","5","4"
-"2021/11/19 11:32:22 PM CST","Sí","De acuerdo","Sí","Venustiano Carranza","Mujer","47","Sí","Privado","Sí","No tengo (0 hijos)","","","","1","1","1","No","Sí","3","3"
-"2021/11/19 11:37:27 PM CST","Sí","De acuerdo","Sí","Cuahutémoc","Mujer","40","Sí","Público/Colectivo","Sí","2","No","Sí","No","5","3","3","Sí","Sí","1","1"
-"2021/11/19 11:42:11 PM CST","Sí","De acuerdo","Sí","Álvaro Obregón","Mujer","25","Sí","Privado","No","No tengo (0 hijos)","","","","3","3","3","No","Sí","4","3"
-"2021/11/20 12:43:24 AM CST","Sí","Neutral","Sí","Iztapalapa","Mujer","28","Sí","Privado","No","1","Sí","Sí","No","5","3","5","Sí","Sí","3","7"
-"2021/11/20 1:19:46 AM CST","Sí","Muy de acuerdo","No","No vivo en CDMX","Mujer","54","Sí","Privado","Sí","2","No","No","No","4","4","4","Sí","Sí","4","2"
-"2021/11/20 1:30:35 AM CST","Sí","En desacuerdo","Sí","Iztapalapa","Mujer","67","Sí","Privado","Sí","2","No","No","Sí","4","1","2","Sí","Sí","2","2"
-"2021/11/20 3:34:18 AM CST","Sí","Muy de acuerdo","Sí","Iztapalapa","Mujer","36","No","Público/Colectivo","Sí","1","Sí","No","No","3","2","2","No","Sí","1","1"
-"2021/11/20 4:19:02 AM CST","Sí","En desacuerdo","Sí","Tlalpan","Mujer","31","Sí","Privado","Sí","No tengo (0 hijos)","","","","2","2","2","No","Sí","2","6"
-"2021/11/20 5:32:48 AM CST","Sí","Neutral","Sí","Gustavo A. Madero","Mujer","28","No","Público/Colectivo","Sí","No tengo (0 hijos)","","","","9","5","5","Sí","Sí","6","5"
-"2021/11/20 5:35:13 AM CST","Sí","De acuerdo","Sí","Cuahutémoc","Mujer","53","No","Público/Colectivo","Sí","2","No","No","No","3","2","2","Sí","Sí","3","2"
-"2021/11/20 6:18:29 AM CST","Sí","Muy en desacuerdo","Sí","Cuahutémoc","Mujer","41","Sí","Privado","No","1","No","Sí","No","3","1","1","Sí","Sí","1","2"
-"2021/11/20 7:15:39 AM CST","Sí","Muy de acuerdo","Sí","No vivo en CDMX","Mujer","40","Sí","Privado","Sí","2","No","Sí","No","4","2","2","Sí","Sí","1","4"
-"2021/11/20 8:26:20 AM CST","Sí","De acuerdo","Sí","Miguel Hidalgo","Mujer","31","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","1","1","1","No","Sí","2","2"
-"2021/11/20 8:27:09 AM CST","Sí","Neutral","Sí","Iztapalapa","Mujer","40","Sí","Público/Colectivo","Sí","1","No","No","Sí","3","2","1","No","Sí","2","2"
-"2021/11/20 9:56:42 AM CST","Sí","Neutral","Sí","Benito Juárez","Mujer","46","Sí","Público/Colectivo","Sí","2","Sí","Sí","No","3","1","3","No","Sí","3","3"
-"2021/11/20 10:07:53 AM CST","Sí","De acuerdo","Sí","Gustavo A. Madero","Hombre","40","Sí","Privado","Sí","2","No","No","No","4","1","1","No","Sí","3","4"
-"2021/11/20 10:40:15 AM CST","Sí","Neutral","Sí","No vivo en CDMX","Hombre","31","Sí","Privado","Sí","No tengo (0 hijos)","","","","5","3","3","Sí","Sí","4","4"
-"2021/11/20 10:57:49 AM CST","Sí","Muy de acuerdo","Sí","No vivo en CDMX","Hombre","41","Sí","Privado","Sí","2","No","Sí","No","4","2","1","No","Sí","1","4"
-"2021/11/20 11:20:01 AM CST","Sí","De acuerdo","Sí","Cuahutémoc","Mujer","47","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","0","Sí","Sí","1","4"
-"2021/11/20 12:10:18 PM CST","Sí","Muy en desacuerdo","Sí","Iztapalapa","Mujer","48","Sí","Público/Colectivo","Sí","2","No","No","No","4","2","1","Sí","Sí","1","4"
-"2021/11/20 12:40:42 PM CST","Sí","En desacuerdo","Sí","Benito Juárez","Mujer","30","Sí","Privado","No","No tengo (0 hijos)","","","","2","2","1","No","Sí","1","4"
-"2021/11/20 2:35:03 PM CST","Sí","Muy en desacuerdo","Sí","Iztapalapa","Hombre","37","Sí","Público/Colectivo","Sí","1","No","No","No","6","2","2","Sí","Sí","2","3"
-"2021/11/20 4:27:11 PM CST","Sí","Muy de acuerdo","Sí","Tlalpan","Mujer","30","Sí","Público/Colectivo","Sí","No tengo (0 hijos)","","","","2","1","1","Sí","No","2","0"
-"2021/11/20 6:35:15 PM CST","Sí","Muy de acuerdo","Sí","Iztapalapa","Mujer","49","Sí","Público/Colectivo","Sí","5","No","No","Sí","4","1","0","No","Sí","10","0"
-"2021/11/20 7:10:33 PM CST","Sí","Muy de acuerdo","Sí","No vivo en CDMX","Hombre","28","No","Público/Colectivo","Sí","No tengo (0 hijos)","","","","4","1","1","Sí","Sí","3","1"
-"2021/11/20 7:43:34 PM CST","Sí","En desacuerdo","Sí","Tlalpan","Mujer","41","Sí","Público/Colectivo","Sí","1","No","No","Sí","2","1","0","No","Sí","3","3"
-"2021/11/21 1:43:03 PM CST","Sí","De acuerdo","Sí","Benito Juárez","Mujer","30","No","Privado","No","No tengo (0 hijos)","","","","4","4","3","No","Sí","3","7"
+Timestamp,¿Deseas continuar con la encuesta?,¿Cuál de las siguientes opciones representa mejor tu opinión respecto al regreso a clases presenciales en las primarias y secundarias de la Ciudad de México?,¿Estás vacunado?,¿En qué alcaldía vives?,Sexo,Edad (en número de años),¿Puedes realizar tu actividad principal (trabajo o escuela) desde casa?,Tipo de transporte que utilizas regularmente.,¿Estudias o has estudiado en una institución de educación pública?,¿Tienes hijos?,¿Cuentas con el apoyo de al menos una persona que cuide de tus hijos cuando tú no puedes por motivos de trabajo?,¿Tienes algún hijo en escuela primaria?,¿Tienes algún hijo en escuela secundaría?,"Incluyéndote a ti, ¿Cuántas personas viven en el mismo hogar que tú?",¿Cuántos de los integrantes de tu hogar (incluyéndote) trabajan?,"De los integrantes que trabajan, ¿Cuántos están inscritos/cuentan con seguro social?",¿En tu hogar hay alguien vulnerable ante el COVID-19?,¿Tu hogar cuenta con acceso a internet?,¿Cuántas televisiones hay en tu hogar?,¿Cuántas computadoras y tabletas hay en tu hogar?
+11/17/2021 17:13:33,Sí,Neutral,No,Miguel Hidalgo,Hombre,32,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,2,4
+11/17/2021 17:13:46,Sí,Neutral,Sí,No vivo en CDMX,Mujer,27,Sí,Privado,No,No tengo (0 hijos),,,,3,2,2,Sí,Sí,3,4
+11/17/2021 17:16:52,Sí,De acuerdo,Sí,Miguel Hidalgo,Mujer,29,No,Privado,No,No tengo (0 hijos),,,,4,2,2,Sí,Sí,5,3
+11/17/2021 17:16:58,Sí,De acuerdo,Sí,Coyoacán,Hombre,33,No,Privado,Sí,No tengo (0 hijos),,,,3,3,3,Sí,Sí,2,2
+11/17/2021 17:17:22,Sí,De acuerdo,Sí,Iztapalapa,Mujer,32,No,Privado,Sí,1,Sí,No,No,3,2,2,No,Sí,2,2
+11/17/2021 17:17:53,Sí,De acuerdo,Sí,Coyoacán,Hombre,69,Sí,Privado,Sí,2,No,No,No,2,1,2,Sí,Sí,4,4
+11/17/2021 17:19:12,Sí,Neutral,Sí,No vivo en CDMX,Hombre,27,No,Privado,No,No tengo (0 hijos),,,,3,2,1,No,Sí,2,4
+11/17/2021 17:19:25,Sí,De acuerdo,Sí,Magdalena Contreras,Mujer,30,No,Privado,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,1,2
+11/17/2021 17:19:27,Sí,De acuerdo,Sí,Benito Juárez,Hombre,31,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,6,4,2,Sí,Sí,3,5
+11/17/2021 17:19:43,Sí,De acuerdo,Sí,Cuahutémoc,Hombre,32,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,3,3
+11/17/2021 17:19:44,Sí,Neutral,Sí,Coyoacán,Mujer,30,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,2,3
+11/17/2021 17:20:26,Sí,En desacuerdo,Sí,Magdalena Contreras,Hombre,70,Sí,Privado,Sí,3,No,No,No,2,2,1,Sí,Sí,2,2
+11/17/2021 17:21:05,Sí,Muy en desacuerdo,Sí,Tlalpan,Hombre,32,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,4,Sí,Sí,3,3
+11/17/2021 17:23:16,Sí,De acuerdo,No,Benito Juárez,Mujer,26,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,2,5
+11/17/2021 17:23:19,Sí,Muy en desacuerdo,Sí,Magdalena Contreras,Hombre,35,No,Privado,No,No tengo (0 hijos),,,,2,1,1,Sí,Sí,2,3
+11/17/2021 17:23:22,Sí,En desacuerdo,Sí,Magdalena Contreras,Mujer,35,Sí,Privado,Sí,No tengo (0 hijos),,,,2,1,1,No,Sí,2,3
+11/17/2021 17:23:37,Sí,De acuerdo,Sí,Benito Juárez,Hombre,29,Sí,Público/Colectivo,No,No tengo (0 hijos),,,,4,1,0,No,Sí,4,11
+11/17/2021 17:24:37,Sí,De acuerdo,Sí,Iztacalco,Hombre,32,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,4,2,2,Sí,Sí,3,4
+11/17/2021 17:26:31,Sí,De acuerdo,Sí,Tláhuac,Hombre,22,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,4,3,4,No,Sí,2,2
+11/17/2021 17:26:33,Sí,Neutral,Sí,Venustiano Carranza,Hombre,22,Sí,Privado,Sí,No tengo (0 hijos),,,,3,3,3,Sí,Sí,3,2
+11/17/2021 17:27:07,Sí,De acuerdo,Sí,Benito Juárez,Mujer,30,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,2,0,No,Sí,1,4
+11/17/2021 17:27:18,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,24,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,1,1,0,No,Sí,1,2
+11/17/2021 17:27:54,Sí,De acuerdo,Sí,Álvaro Obregón,Mujer,23,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,4,2,1,Sí,Sí,2,2
+11/17/2021 17:27:58,Sí,En desacuerdo,Sí,Tlalpan,Hombre,62,Sí,Privado,Sí,1,Sí,No,No,4,3,1,Sí,Sí,5,4
+11/17/2021 17:28:21,Sí,Neutral,Sí,Miguel Hidalgo,Mujer,33,Sí,Privado,Sí,No tengo (0 hijos),,,,3,2,2,Sí,Sí,2,3
+11/17/2021 17:28:23,Sí,Neutral,Sí,Benito Juárez,Hombre,33,Sí,Público/Colectivo,No,No tengo (0 hijos),,,,2,2,2,No,Sí,1,8
+11/17/2021 17:30:08,Sí,De acuerdo,Sí,Cuahutémoc,Mujer,29,Sí,Privado,Sí,No tengo (0 hijos),,,,3,2,2,Sí,Sí,4,4
+11/17/2021 17:30:25,Sí,En desacuerdo,Sí,Magdalena Contreras,Hombre,29,Sí,Privado,No,No tengo (0 hijos),,,,2,1,1,Sí,Sí,4,4
+11/17/2021 17:30:36,Sí,Muy en desacuerdo,Sí,No vivo en CDMX,Hombre,30,Sí,Privado,No,No tengo (0 hijos),,,,4,2,2,Sí,Sí,4,3
+11/17/2021 17:31:02,Sí,Neutral,Sí,No vivo en CDMX,Hombre,46,Sí,Privado,Sí,No tengo (0 hijos),,,,1,1,1,Sí,Sí,1,2
+11/17/2021 17:32:11,Sí,Neutral,Sí,No vivo en CDMX,Mujer,25,Sí,Privado,No,No tengo (0 hijos),,,,6,3,3,Sí,Sí,1,5
+11/17/2021 17:32:21,Sí,De acuerdo,Sí,Benito Juárez,Hombre,36,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,1,3
+11/17/2021 17:32:45,Sí,De acuerdo,Sí,Benito Juárez,Hombre,26,Sí,Privado,Sí,No tengo (0 hijos),,,,3,2,3,Sí,Sí,4,3
+11/17/2021 17:34:42,Sí,Neutral,Sí,Coyoacán,Hombre,33,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,5,2,2,No,Sí,4,3
+11/17/2021 17:35:01,Sí,En desacuerdo,Sí,Venustiano Carranza,Mujer,18,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,2,0,No,Sí,1,2
+11/17/2021 17:35:11,Sí,Neutral,Sí,Benito Juárez,Mujer,45,No,Privado,Sí,2,Sí,No,No,6,4,3,Sí,Sí,6,2
+11/17/2021 17:35:31,Sí,De acuerdo,Sí,Benito Juárez,Hombre,32,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,1,No,Sí,1,3
+11/17/2021 17:36:08,Sí,Neutral,No,No vivo en CDMX,Mujer,32,Sí,Privado,No,1,Sí,No,No,3,1,3,Sí,Sí,2,3
+11/17/2021 17:37:08,Sí,De acuerdo,Sí,Miguel Hidalgo,Hombre,26,Sí,Privado,Sí,No tengo (0 hijos),,,,5,3,3,No,Sí,4,5
+11/17/2021 17:37:53,Sí,Muy de acuerdo,Sí,Iztapalapa,Hombre,28,Sí,Privado,No,1,Sí,No,No,3,1,3,No,Sí,0,6
+11/17/2021 17:38:18,Sí,Neutral,No,Coyoacán,Hombre,30,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,2,3
+11/17/2021 17:39:25,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,33,Sí,Público/Colectivo,No,1,Sí,No,No,3,2,2,Sí,Sí,1,4
+11/17/2021 17:39:56,Sí,En desacuerdo,Sí,Gustavo A. Madero,Mujer,38,Sí,Privado,Sí,No tengo (0 hijos),,,,1,2,2,Sí,Sí,1,3
+11/17/2021 17:41:30,Sí,En desacuerdo,Sí,Benito Juárez,Mujer,31,Sí,Público/Colectivo,No,No tengo (0 hijos),,,,2,1,1,Sí,Sí,3,2
+11/17/2021 17:42:06,Sí,De acuerdo,Sí,Benito Juárez,Mujer,26,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,1,5
+11/17/2021 17:44:37,Sí,De acuerdo,Sí,Coyoacán,Mujer,31,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,4,2,1,No,Sí,2,4
+11/17/2021 17:46:04,Sí,Neutral,Sí,No vivo en CDMX,Mujer,20,Sí,Privado,No,No tengo (0 hijos),,,,4,1,1,Sí,Sí,3,8
+11/17/2021 17:46:32,Sí,De acuerdo,Sí,No vivo en CDMX,Hombre,32,Sí,Público/Colectivo,Sí,1,No,No,Sí,3,2,2,No,Sí,2,3
+11/17/2021 17:48:41,Sí,De acuerdo,Sí,Cuajimalpa,Mujer,30,Sí,Privado,Sí,1,No,No,No,3,2,2,No,Sí,2,3
+11/17/2021 17:50:27,Sí,De acuerdo,Sí,Cuahutémoc,Hombre,32,Sí,Privado,No,No tengo (0 hijos),,,,1,1,1,No,Sí,1,1
+11/17/2021 17:50:28,Sí,De acuerdo,Sí,No vivo en CDMX,Hombre,30,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,4,2,2,Sí,Sí,2,3
+11/17/2021 17:51:07,Sí,De acuerdo,Sí,Coyoacán,Hombre,25,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,Sí,Sí,1,2
+11/17/2021 17:53:15,Sí,De acuerdo,Sí,Benito Juárez,Hombre,38,No,Privado,Sí,No tengo (0 hijos),,,,2,2,0,Sí,Sí,4,4
+11/17/2021 17:53:57,Sí,De acuerdo,No,No vivo en CDMX,Mujer,25,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,2,1,No,Sí,1,2
+11/17/2021 17:54:46,Sí,En desacuerdo,Sí,Coyoacán,Mujer,66,Sí,Privado,Sí,3,No,No,No,2,1,1,Sí,Sí,3,2
+11/17/2021 17:55:06,Sí,De acuerdo,Sí,Azcapotzalco,Mujer,36,Sí,Público/Colectivo,Sí,1,Sí,Sí,No,5,2,5,Sí,Sí,4,3
+11/17/2021 17:55:48,Sí,Muy de acuerdo,Sí,Cuajimalpa,Hombre,39,Sí,Privado,Sí,1,Sí,No,No,3,2,2,Sí,Sí,5,3
+11/17/2021 17:56:45,Sí,Muy de acuerdo,Sí,Coyoacán,Mujer,40,Sí,Privado,Sí,1,Sí,No,No,2,1,1,Sí,Sí,2,2
+11/17/2021 17:56:52,Sí,Muy de acuerdo,Sí,Álvaro Obregón,Hombre,37,Sí,Privado,Sí,No tengo (0 hijos),,,,1,1,1,Sí,Sí,2,3
+11/17/2021 17:57:22,Sí,Neutral,Sí,Benito Juárez,Mujer,29,No,Privado,Sí,No tengo (0 hijos),,,,1,2,1,No,Sí,2,2
+11/17/2021 17:58:01,Sí,De acuerdo,Sí,Álvaro Obregón,Hombre,20,Sí,Privado,No,No tengo (0 hijos),,,,4,3,2,Sí,Sí,4,3
+11/17/2021 17:58:20,Sí,Muy en desacuerdo,Sí,Coyoacán,Mujer,45,No,Privado,No,No tengo (0 hijos),,,,1,1,2,Sí,Sí,3,1
+11/17/2021 17:58:32,Sí,Muy de acuerdo,Sí,Álvaro Obregón,Hombre,27,Sí,Privado,Sí,No tengo (0 hijos),,,,7,7,7,Sí,Sí,7,12
+11/17/2021 18:00:25,Sí,Muy de acuerdo,Sí,No vivo en CDMX,Mujer,27,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,2,2,Sí,Sí,2,2
+11/17/2021 18:01:49,Sí,Neutral,Sí,No vivo en CDMX,Mujer,30,Sí,Público/Colectivo,Sí,1,No,No,No,3,2,2,Sí,Sí,2,2
+11/17/2021 18:02:01,Sí,De acuerdo,Sí,Tlalpan,Hombre,30,Sí,Privado,No,No tengo (0 hijos),,,,4,2,3,Sí,Sí,5,7
+11/17/2021 18:04:26,Sí,Muy en desacuerdo,Sí,Coyoacán,Mujer,32,Sí,Privado,No,No tengo (0 hijos),,,,2,1,0,Sí,Sí,1,2
+11/17/2021 18:04:44,Sí,De acuerdo,Sí,Coyoacán,Hombre,32,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,4,2
+11/17/2021 18:05:19,Sí,En desacuerdo,Sí,Miguel Hidalgo,Hombre,32,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,2,5
+11/17/2021 18:07:11,Sí,Muy en desacuerdo,Sí,Álvaro Obregón,Hombre,33,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,2,2,Sí,Sí,3,3
+11/17/2021 18:08:38,Sí,De acuerdo,Sí,Cuahutémoc,Mujer,64,Sí,Público/Colectivo,Sí,3,No,No,No,1,1,0,Sí,Sí,1,1
+11/17/2021 18:09:29,Sí,De acuerdo,Sí,Cuahutémoc,Hombre,37,Sí,Privado,No,1,No,Sí,No,3,2,2,No,Sí,2,4
+11/17/2021 18:10:15,Sí,De acuerdo,Sí,Tlalpan,Hombre,30,Sí,Privado,Sí,No tengo (0 hijos),,,,2,1,1,No,Sí,1,5
+11/17/2021 18:12:16,Sí,De acuerdo,Sí,Benito Juárez,Hombre,44,Sí,Privado,Sí,2,Sí,Sí,No,41,1,4,No,Sí,2,3
+11/17/2021 18:14:31,Sí,De acuerdo,Sí,Miguel Hidalgo,Hombre,32,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,1,1,1,No,Sí,1,1
+11/17/2021 18:14:46,Sí,De acuerdo,Sí,Coyoacán,Hombre,50,Sí,Privado,Sí,2,No,No,No,5,1,1,No,Sí,3,1
+11/17/2021 18:15:18,Sí,De acuerdo,Sí,Benito Juárez,Mujer,27,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,3,3
+11/17/2021 18:16:56,Sí,De acuerdo,Sí,Benito Juárez,Hombre,59,Sí,Público/Colectivo,Sí,3,Sí,No,Sí,4,3,2,Sí,Sí,2,4
+11/17/2021 18:18:25,Sí,Muy de acuerdo,Sí,No vivo en CDMX,Mujer,47,Sí,Público/Colectivo,Sí,3,No,No,No,3,1,0,Sí,Sí,0,1
+11/17/2021 18:19:11,Sí,Muy de acuerdo,Sí,Coyoacán,Hombre,29,Sí,Privado,No,No tengo (0 hijos),,,,4,2,2,Sí,Sí,6,7
+11/17/2021 18:19:21,Sí,De acuerdo,Sí,Benito Juárez,Hombre,31,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,3,5
+11/17/2021 18:19:35,Sí,Neutral,No,No vivo en CDMX,Mujer,29,No,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,2,0,Sí,Sí,3,1
+11/17/2021 18:21:00,Sí,De acuerdo,Sí,Benito Juárez,Hombre,45,Sí,Privado,Sí,2,Sí,Sí,No,4,2,2,Sí,Sí,5,15
+11/17/2021 18:21:39,Sí,De acuerdo,Sí,Álvaro Obregón,Hombre,29,Sí,Privado,No,No tengo (0 hijos),,,,4,4,3,Sí,Sí,5,5
+11/17/2021 18:21:39,Sí,Muy de acuerdo,No,No vivo en CDMX,Mujer,65,Sí,Privado,No,4,No,No,No,3,1,3,Sí,Sí,2,3
+11/17/2021 18:22:25,Sí,Muy de acuerdo,Sí,Álvaro Obregón,Hombre,36,Sí,Privado,Sí,No tengo (0 hijos),,,,1,1,1,No,Sí,1,2
+11/17/2021 18:22:41,Sí,Muy de acuerdo,Sí,Benito Juárez,Hombre,30,No,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,2,2,Sí,Sí,3,2
+11/17/2021 18:24:50,Sí,De acuerdo,Sí,Coyoacán,Hombre,22,No,Privado,Sí,No tengo (0 hijos),,,,5,4,3,Sí,Sí,1,4
+11/17/2021 18:26:05,Sí,Muy de acuerdo,Sí,Cuajimalpa,Mujer,23,No,Público/Colectivo,Sí,1,Sí,No,No,3,2,0,No,Sí,1,0
+11/17/2021 18:30:01,Sí,Muy de acuerdo,Sí,Álvaro Obregón,Mujer,30,Sí,Público/Colectivo,Sí,1,Sí,No,No,3,2,2,Sí,Sí,1,5
+11/17/2021 18:32:13,Sí,Muy de acuerdo,Sí,Iztapalapa,Mujer,43,No,Público/Colectivo,Sí,1,No,No,No,4,3,2,Sí,Sí,2,1
+11/17/2021 18:32:16,Sí,Neutral,No,No vivo en CDMX,Mujer,34,Sí,Privado,Sí,No tengo (0 hijos),,,,1,1,1,No,Sí,1,1
+11/17/2021 18:33:28,Sí,Neutral,Sí,Iztapalapa,Hombre,50,Sí,Público/Colectivo,Sí,1,No,No,No,4,3,2,Sí,Sí,3,2
+11/17/2021 18:33:31,Sí,En desacuerdo,Sí,Cuajimalpa,Mujer,30,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,5,2,0,Sí,Sí,3,1
+11/17/2021 18:33:54,Sí,De acuerdo,Sí,Benito Juárez,Hombre,28,Sí,Público/Colectivo,No,No tengo (0 hijos),,,,2,2,1,No,Sí,2,2
+11/17/2021 18:34:28,Sí,Neutral,Sí,Benito Juárez,Mujer,32,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,2,1,No,Sí,1,2
+11/17/2021 18:40:47,Sí,En desacuerdo,Sí,Cuajimalpa,Mujer,71,Sí,Privado,No,2,No,No,No,2,1,0,Sí,Sí,2,4
+11/17/2021 18:41:18,Sí,Neutral,Sí,Iztapalapa,Mujer,25,Sí,Público/Colectivo,No,1,Sí,No,No,3,3,3,Sí,Sí,3,2
+11/17/2021 18:44:41,Sí,Muy de acuerdo,Sí,Iztapalapa,Mujer,20,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,2,2,No,Sí,2,1
+11/17/2021 18:47:11,Sí,En desacuerdo,Sí,Benito Juárez,Mujer,37,Sí,Privado,No,No tengo (0 hijos),,,,2,1,1,No,Sí,2,2
+11/17/2021 18:49:31,Sí,Neutral,Sí,Iztapalapa,Mujer,44,No,Público/Colectivo,Sí,2,No,No,No,3,1,2,Sí,Sí,2,1
+11/17/2021 18:49:53,Sí,Neutral,No,Iztapalapa,Mujer,18,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,6,2,0,No,Sí,1,3
+11/17/2021 18:51:26,Sí,De acuerdo,Sí,Benito Juárez,Hombre,28,Sí,Privado,No,No tengo (0 hijos),,,,5,4,3,Sí,Sí,3,4
+11/17/2021 18:51:48,Sí,Neutral,Sí,Cuahutémoc,Hombre,28,Sí,Privado,No,No tengo (0 hijos),,,,1,1,1,No,Sí,3,3
+11/17/2021 18:54:00,Sí,Muy de acuerdo,Sí,Iztapalapa,Mujer,22,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,4,4,2,Sí,Sí,2,2
+11/17/2021 18:54:10,Sí,De acuerdo,Sí,Miguel Hidalgo,Hombre,34,Sí,Privado,Sí,No tengo (0 hijos),,,,2,1,0,Sí,Sí,2,3
+11/17/2021 18:54:39,Sí,De acuerdo,Sí,Benito Juárez,Mujer,37,Sí,Privado,No,2,Sí,Sí,No,5,2,2,Sí,Sí,1,4
+11/17/2021 18:57:59,Sí,Muy de acuerdo,No,No vivo en CDMX,Mujer,25,No,Privado,Sí,2,No,No,No,4,2,0,No,Sí,3,1
+11/17/2021 18:58:30,Sí,En desacuerdo,Sí,Benito Juárez,Mujer,30,No,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,2,1,Sí,Sí,1,1
+11/17/2021 18:58:50,Sí,En desacuerdo,Sí,Álvaro Obregón,Mujer,37,No,Privado,Sí,No tengo (0 hijos),,,,1,1,1,No,Sí,1,2
+11/17/2021 18:59:17,Sí,Muy de acuerdo,No,Gustavo A. Madero,Mujer,58,No,Privado,No,2,No,No,No,3,0,0,No,Sí,3,3
+11/17/2021 18:59:38,Sí,De acuerdo,Sí,Cuahutémoc,Hombre,38,Sí,Privado,No,1,Sí,No,No,3,2,2,Sí,Sí,2,4
+11/17/2021 19:04:16,Sí,De acuerdo,Sí,Iztapalapa,Mujer,32,No,Público/Colectivo,Sí,2,No,Sí,No,4,2,1,Sí,Sí,1,0
+11/17/2021 19:09:27,Sí,De acuerdo,Sí,Coyoacán,Mujer,48,No,Público/Colectivo,Sí,3,No,No,No,4,1,4,No,Sí,1,3
+11/17/2021 19:09:35,Sí,Muy de acuerdo,Sí,Benito Juárez,Hombre,28,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,2,3
+11/17/2021 19:10:44,Sí,Muy de acuerdo,Sí,Iztapalapa,Mujer,49,Sí,Público/Colectivo,Sí,5,Sí,No,Sí,7,2,1,No,Sí,1,0
+11/17/2021 19:15:13,Sí,De acuerdo,Sí,Iztapalapa,Mujer,45,No,Público/Colectivo,Sí,2,No,No,No,4,2,2,Sí,Sí,4,3
+11/17/2021 19:22:52,Sí,En desacuerdo,Sí,Coyoacán,Hombre,70,Sí,Privado,Sí,3,Sí,No,No,1,3,2,Sí,Sí,3,2
+11/17/2021 19:25:45,Sí,En desacuerdo,Sí,Coyoacán,Hombre,70,Sí,Privado,Sí,3,Sí,No,No,1,1,1,Sí,Sí,3,2
+11/17/2021 19:27:09,Sí,En desacuerdo,Sí,Iztapalapa,Mujer,42,Sí,Público/Colectivo,Sí,4,Sí,No,Sí,5,1,0,No,Sí,1,0
+11/17/2021 19:27:47,Sí,Neutral,Sí,Iztapalapa,Mujer,19,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,9,1,1,Sí,Sí,2,1
+11/17/2021 19:40:00,Sí,Neutral,Sí,Iztapalapa,Mujer,26,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,1,1,1,No,Sí,1,1
+11/17/2021 19:41:54,Sí,De acuerdo,Sí,No vivo en CDMX,Hombre,47,No,Privado,Sí,2,Sí,Sí,No,4,2,2,No,Sí,1,3
+11/17/2021 19:44:42,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,44,Sí,Público/Colectivo,Sí,2,Sí,No,Sí,4,2,1,Sí,Sí,1,1
+11/17/2021 19:45:36,Sí,Muy en desacuerdo,Sí,Gustavo A. Madero,Hombre,53,Sí,Privado,Sí,2,Sí,No,Sí,4,1,4,No,Sí,2,5
+11/17/2021 19:50:02,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,39,Sí,Privado,No,1,No,Sí,No,3,2,2,No,Sí,4,5
+11/17/2021 19:51:16,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,28,No,Privado,Sí,No tengo (0 hijos),,,,5,4,1,Sí,Sí,3,1
+11/17/2021 19:51:29,Sí,De acuerdo,Sí,Álvaro Obregón,Hombre,30,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,0.1,0,No,Sí,1,4
+11/17/2021 19:53:04,Sí,Muy en desacuerdo,No,Coyoacán,Hombre,29,No,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,1,2
+11/17/2021 19:55:09,Sí,De acuerdo,Sí,Cuajimalpa,Mujer,39,Sí,Privado,Sí,1,Sí,No,No,4,2,2,No,Sí,3,2
+11/17/2021 19:55:29,Sí,De acuerdo,Sí,Azcapotzalco,Hombre,70,Sí,Privado,Sí,3,No,No,No,3,2,2,Sí,Sí,3,4
+11/17/2021 20:10:30,Sí,De acuerdo,Sí,Coyoacán,Hombre,71,No,Privado,Sí,2,Sí,No,No,2,1,2,No,Sí,2,1
+11/17/2021 20:14:41,Sí,De acuerdo,Sí,Xochimilco,Mujer,20,Sí,Público/Colectivo,No,No tengo (0 hijos),,,,3,2,2,Sí,Sí,4,8
+11/17/2021 20:16:32,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,26,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,1,1
+11/17/2021 20:18:17,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,26,Sí,Privado,Sí,No tengo (0 hijos),,,,3,3,3,Sí,Sí,4,6
+11/17/2021 20:25:46,Sí,Neutral,No,Cuajimalpa,Mujer,25,Sí,Privado,No,No tengo (0 hijos),,,,5,4,4,No,Sí,6,6
+11/17/2021 20:31:47,Sí,Muy de acuerdo,Sí,Miguel Hidalgo,Mujer,30,No,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,3,3
+11/17/2021 20:54:33,Sí,De acuerdo,Sí,Tlalpan,Mujer,70,Sí,Privado,Sí,No tengo (0 hijos),,,,1,0,0,Sí,Sí,1,1
+11/17/2021 21:01:39,Sí,De acuerdo,Sí,Iztapalapa,Mujer,26,Sí,Público/Colectivo,Sí,2,Sí,Sí,No,8,4,2,Sí,Sí,4,3
+11/17/2021 21:08:20,Sí,Neutral,Sí,Coyoacán,Mujer,42,No,Público/Colectivo,No,2,No,Sí,No,4,2,3,No,Sí,2,1
+11/17/2021 21:09:02,Sí,Neutral,Sí,No vivo en CDMX,Hombre,31,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,2,1,No,Sí,2,2
+11/17/2021 21:10:25,Sí,En desacuerdo,Sí,Xochimilco,Mujer,30,Sí,Público/Colectivo,Sí,2,Sí,Sí,No,7,4,1,No,Sí,3,3
+11/17/2021 21:15:57,Sí,De acuerdo,Sí,Coyoacán,Mujer,28,No,Privado,Sí,No tengo (0 hijos),,,,2,2,1,No,Sí,1,4
+11/17/2021 21:17:54,Sí,De acuerdo,Sí,No vivo en CDMX,Hombre,70,Sí,Privado,Sí,1,Sí,No,No,3,2,2,Sí,Sí,3,3
+11/17/2021 21:25:07,Sí,De acuerdo,Sí,Cuajimalpa,Mujer,27,Sí,Privado,No,No tengo (0 hijos),,,,1,1,1,No,Sí,1,3
+11/17/2021 21:31:47,Sí,Neutral,Sí,No vivo en CDMX,Mujer,31,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,1,No,Sí,3,4
+11/17/2021 21:35:34,Sí,En desacuerdo,Sí,Iztapalapa,Hombre,69,Sí,Privado,Sí,3,No,No,No,3,3,3,Sí,Sí,2,3
+11/17/2021 21:36:03,Sí,De acuerdo,Sí,Iztapalapa,Hombre,22,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,2,0,No,Sí,2,1
+11/17/2021 21:38:48,Sí,De acuerdo,Sí,Iztapalapa,Mujer,22,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,6,2,3,Sí,Sí,1,2
+11/17/2021 21:40:25,Sí,Neutral,Sí,No vivo en CDMX,Hombre,34,No,Privado,Sí,2,No,Sí,No,4,1,0,No,Sí,1,0
+11/17/2021 21:40:40,Sí,De acuerdo,Sí,Iztapalapa,Mujer,23,No,Público/Colectivo,Sí,No tengo (0 hijos),,,,7,6,1,Sí,Sí,6,3
+11/17/2021 21:43:48,Sí,Neutral,Sí,No vivo en CDMX,Hombre,34,No,Privado,Sí,2,No,Sí,No,4,1,0,No,Sí,1,0
+11/17/2021 21:45:02,Sí,De acuerdo,Sí,No vivo en CDMX,Hombre,27,Sí,Privado,Sí,No tengo (0 hijos),,,,5,3,5,Sí,Sí,4,6
+11/17/2021 21:48:02,Sí,Muy de acuerdo,Sí,Xochimilco,Mujer,52,Sí,Privado,Sí,1,Sí,No,No,4,1,1,Sí,Sí,3,3
+11/17/2021 21:48:17,Sí,Neutral,Sí,No vivo en CDMX,Hombre,27,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,3,3,Sí,Sí,3,3
+11/17/2021 21:49:33,Sí,En desacuerdo,Sí,No vivo en CDMX,Hombre,40,Sí,Privado,Sí,1,Sí,No,No,3,1,1,Sí,Sí,1,4
+11/17/2021 21:51:12,Sí,De acuerdo,Sí,Benito Juárez,Hombre,32,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,1,4
+11/17/2021 21:51:19,Sí,De acuerdo,No,Iztapalapa,Hombre,39,Sí,Privado,Sí,2,Sí,No,No,5,2,2,No,Sí,2,3
+11/17/2021 21:52:04,Sí,En desacuerdo,Sí,No vivo en CDMX,Hombre,24,Sí,Público/Colectivo,No,No tengo (0 hijos),,,,4,2,2,Sí,Sí,3,3
+11/17/2021 21:52:12,Sí,En desacuerdo,Sí,Miguel Hidalgo,Mujer,34,Sí,Público/Colectivo,Sí,1,No,No,Sí,3,2,1,Sí,Sí,1,4
+11/17/2021 21:52:32,Sí,Muy en desacuerdo,Sí,Gustavo A. Madero,Hombre,32,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,5,4,4,Sí,Sí,3,3
+11/17/2021 21:54:20,Sí,De acuerdo,Sí,Gustavo A. Madero,Mujer,50,Sí,Público/Colectivo,Sí,1,Sí,No,Sí,2,1,1,No,Sí,2,2
+11/17/2021 21:55:04,Sí,Muy en desacuerdo,Sí,Miguel Hidalgo,Hombre,28,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,2,1,Sí,Sí,1,3
+11/17/2021 21:59:56,Sí,De acuerdo,Sí,Cuahutémoc,Mujer,24,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,4,3,2,Sí,Sí,2,4
+11/17/2021 22:00:58,Sí,De acuerdo,Sí,Miguel Hidalgo,Hombre,49,Sí,Público/Colectivo,Sí,3,Sí,No,Sí,5,2,0,No,Sí,3,7
+11/17/2021 22:01:04,Sí,Neutral,Sí,Cuahutémoc,Mujer,24,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,3,3,No,Sí,2,4
+11/17/2021 22:01:26,Sí,De acuerdo,Sí,Benito Juárez,Hombre,40,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,2,3
+11/17/2021 22:09:17,Sí,De acuerdo,Sí,Benito Juárez,Mujer,31,No,Privado,Sí,No tengo (0 hijos),,,,3,4,1,Sí,Sí,3,3
+11/17/2021 22:10:52,Sí,Muy en desacuerdo,Sí,Iztacalco,Hombre,31,Sí,Público/Colectivo,No,No tengo (0 hijos),,,,2,2,0,No,Sí,1,3
+11/17/2021 22:17:12,Sí,Muy en desacuerdo,Sí,Iztapalapa,Mujer,46,Sí,Privado,Sí,2,Sí,No,No,3,2,3,No,Sí,3,3
+11/17/2021 22:24:49,Sí,En desacuerdo,Sí,No vivo en CDMX,Mujer,40,Sí,Privado,Sí,3,Sí,No,Sí,5,2,2,No,Sí,3,2
+11/17/2021 22:25:45,Sí,Neutral,Sí,Iztapalapa,Hombre,20,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,4,4,3,No,Sí,3,2
+11/17/2021 22:27:09,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,18,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,1,1,No,Sí,1,0
+11/17/2021 22:28:43,Sí,En desacuerdo,Sí,Iztapalapa,Mujer,41,Sí,Privado,Sí,2,Sí,Sí,No,4,2,2,Sí,Sí,5,4
+11/17/2021 22:31:27,Sí,Neutral,Sí,Iztapalapa,Mujer,25,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,3,3,No,Sí,3,3
+11/17/2021 22:32:43,Sí,Muy de acuerdo,Sí,Iztapalapa,Hombre,19,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,1,1,Sí,Sí,1,2
+11/17/2021 22:33:13,Sí,Neutral,Sí,Cuahutémoc,Mujer,41,Sí,Público/Colectivo,Sí,1,No,No,No,2,1,1,No,Sí,3,2
+11/17/2021 22:37:38,Sí,Neutral,Sí,Miguel Hidalgo,Mujer,32,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,2,1,No,Sí,1,2
+11/17/2021 22:38:58,Sí,Muy de acuerdo,Sí,Tlalpan,Mujer,60,Sí,Público/Colectivo,Sí,4,Sí,No,No,33,3,0,No,Sí,1,0
+11/17/2021 22:41:18,Sí,Neutral,Sí,Iztapalapa,Mujer,30,No,Privado,Sí,1,No,No,No,6,4,2,Sí,Sí,4,3
+11/17/2021 22:41:45,Sí,De acuerdo,Sí,Benito Juárez,Mujer,32,Sí,Privado,No,No tengo (0 hijos),,,,2,2,1,Sí,Sí,2,6
+11/17/2021 22:42:17,Sí,Muy en desacuerdo,Sí,No vivo en CDMX,Mujer,30,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,8,4,3,Sí,Sí,2,3
+11/17/2021 22:46:20,Sí,En desacuerdo,Sí,Iztapalapa,Mujer,46,Sí,Público/Colectivo,Sí,2,No,No,No,5,3,4,Sí,Sí,3,2
+11/17/2021 22:47:14,Sí,De acuerdo,Sí,Iztapalapa,Mujer,38,Sí,Privado,Sí,1,Sí,No,Sí,6,3,2,Sí,Sí,5,3
+11/17/2021 22:49:03,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,29,Sí,Privado,No,No tengo (0 hijos),,,,5,4,4,Sí,Sí,3,5
+11/17/2021 22:50:04,Sí,En desacuerdo,Sí,Venustiano Carranza,Mujer,44,No,Público/Colectivo,Sí,1,Sí,Sí,No,3,2,2,No,Sí,1,2
+11/17/2021 22:51:01,Sí,De acuerdo,Sí,Azcapotzalco,Mujer,48,No,Privado,Sí,No tengo (0 hijos),,,,3,2,1,Sí,Sí,3,3
+11/17/2021 22:52:09,Sí,De acuerdo,Sí,Xochimilco,Mujer,34,Sí,Privado,No,2,Sí,Sí,Sí,4,2,2,No,Sí,3,4
+11/17/2021 22:55:10,Sí,Neutral,Sí,Benito Juárez,Hombre,36,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,Sí,Sí,2,6
+11/17/2021 22:55:28,Sí,En desacuerdo,Sí,Iztacalco,Mujer,33,Sí,Privado,No,No tengo (0 hijos),,,,6,6,6,Sí,Sí,3,8
+11/17/2021 22:55:34,Sí,De acuerdo,Sí,Iztapalapa,Mujer,48,No,Público/Colectivo,Sí,3,No,No,Sí,5,3,2,No,Sí,3,1
+11/17/2021 22:55:42,Sí,En desacuerdo,Sí,Iztapalapa,Mujer,19,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,3,1,Sí,Sí,3,3
+11/17/2021 23:00:31,Sí,Muy en desacuerdo,Sí,Iztapalapa,Mujer,47,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,2,2,Sí,Sí,2,1
+11/17/2021 23:03:16,Sí,Neutral,Sí,Iztapalapa,Mujer,34,Sí,Público/Colectivo,Sí,3,No,No,Sí,5,2,1,No,Sí,2,0
+11/17/2021 23:09:44,Sí,En desacuerdo,Sí,No vivo en CDMX,Hombre,46,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,6,3,2,Sí,Sí,2,1
+11/17/2021 23:10:14,Sí,Neutral,Sí,Benito Juárez,Mujer,36,No,Privado,Sí,1,Sí,No,Sí,21,1,0,No,Sí,2,2
+11/17/2021 23:11:13,Sí,En desacuerdo,Sí,Iztapalapa,Mujer,21,Sí,Privado,Sí,No tengo (0 hijos),,,,3,1,1,Sí,Sí,1,2
+11/17/2021 23:13:19,Sí,Neutral,Sí,Iztapalapa,Mujer,46,Sí,Público/Colectivo,Sí,2,No,No,Sí,4,1,4,Sí,Sí,2,1
+11/17/2021 23:16:27,Sí,Muy de acuerdo,Sí,Iztapalapa,Mujer,41,Sí,Público/Colectivo,Sí,1,Sí,No,No,4,3,0,Sí,Sí,2,2
+11/17/2021 23:25:00,Sí,De acuerdo,Sí,Iztapalapa,Mujer,43,Sí,Público/Colectivo,Sí,2,No,Sí,No,3,1,1,No,Sí,2,2
+11/17/2021 23:27:35,Sí,Neutral,Sí,Cuahutémoc,Hombre,29,Sí,Público/Colectivo,Sí,1,No,Sí,No,3,2,1,Sí,Sí,2,2
+11/17/2021 23:31:29,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,43,Sí,Público/Colectivo,Sí,2,No,No,No,3,1,1,Sí,Sí,2,1
+11/17/2021 23:31:45,Sí,En desacuerdo,Sí,Coyoacán,Mujer,24,Sí,Privado,Sí,No tengo (0 hijos),,,,3,2,3,No,Sí,2,3
+11/17/2021 23:49:28,Sí,En desacuerdo,Sí,Coyoacán,Mujer,62,Sí,Privado,Sí,1,Sí,No,No,2,1,1,Sí,Sí,3,2
+11/17/2021 23:58:23,Sí,Muy de acuerdo,Sí,No vivo en CDMX,Mujer,65,Sí,Privado,Sí,No tengo (0 hijos),,,,1,2,0,Sí,Sí,1,2
+11/18/2021 0:13:43,Sí,Muy de acuerdo,No,No vivo en CDMX,Hombre,18,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,1,1,No,Sí,1,3
+11/18/2021 1:01:56,Sí,En desacuerdo,Sí,Gustavo A. Madero,Mujer,41,Sí,Privado,Sí,2,No,Sí,Sí,4,2,2,No,Sí,1,5
+11/18/2021 5:32:55,Sí,De acuerdo,Sí,Iztapalapa,Hombre,47,No,Privado,Sí,2,No,No,Sí,3,2,0,Sí,Sí,2,2
+11/18/2021 5:49:56,Sí,De acuerdo,Sí,Iztapalapa,Mujer,43,Sí,Privado,Sí,2,No,No,No,3,2,1,Sí,Sí,3,1
+11/18/2021 5:51:58,Sí,En desacuerdo,Sí,Iztapalapa,Mujer,59,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,3,1,Sí,Sí,1,1
+11/18/2021 6:56:06,Sí,Muy de acuerdo,Sí,Benito Juárez,Hombre,70,Sí,Privado,Sí,4,Sí,No,No,4,3,3,No,Sí,2,5
+11/18/2021 7:23:27,Sí,De acuerdo,Sí,Benito Juárez,Mujer,30,No,Público/Colectivo,Sí,No tengo (0 hijos),,,,5,2,1,Sí,Sí,1,2
+11/18/2021 7:36:06,Sí,Muy de acuerdo,Sí,No vivo en CDMX,Mujer,60,Sí,Privado,Sí,2,Sí,No,No,2,2,2,Sí,Sí,3,3
+11/18/2021 7:38:21,Sí,De acuerdo,Sí,Iztacalco,Mujer,44,Sí,Privado,Sí,2,Sí,No,Sí,5,3,4,Sí,Sí,2,4
+11/18/2021 8:14:22,Sí,De acuerdo,Sí,Coyoacán,Hombre,61,Sí,Privado,Sí,1,No,No,No,2,1,2,Sí,Sí,3,2
+11/18/2021 8:23:09,Sí,De acuerdo,Sí,Xochimilco,Mujer,32,Sí,Privado,No,1,Sí,No,No,3,2,2,No,Sí,4,3
+11/18/2021 8:31:36,Sí,En desacuerdo,Sí,Benito Juárez,Mujer,34,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,Sí,Sí,2,3
+11/18/2021 8:40:23,Sí,Neutral,Sí,Gustavo A. Madero,Mujer,48,No,Público/Colectivo,Sí,2,Sí,No,No,8,4,3,Sí,Sí,3,4
+11/18/2021 9:27:01,Sí,Muy de acuerdo,Sí,Benito Juárez,Mujer,33,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,1,4
+11/18/2021 9:30:53,Sí,Neutral,Sí,Xochimilco,Mujer,22,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,4,2,1,No,Sí,3,2
+11/18/2021 9:33:39,Sí,En desacuerdo,Sí,Benito Juárez,Hombre,25,Sí,Público/Colectivo,No,No tengo (0 hijos),,,,2,2,2,No,Sí,2,3
+11/18/2021 9:58:03,Sí,De acuerdo,Sí,Iztapalapa,Mujer,29,No,Público/Colectivo,Sí,No tengo (0 hijos),,,,8,4,2,No,Sí,2,2
+11/18/2021 10:42:11,Sí,De acuerdo,Sí,Miguel Hidalgo,Mujer,31,No,Privado,No,No tengo (0 hijos),,,,1,1,0,No,Sí,1,2
+11/18/2021 10:54:22,Sí,De acuerdo,No,Iztacalco,Hombre,41,Sí,Privado,Sí,No tengo (0 hijos),,,,2,1,2,No,Sí,2,5
+11/18/2021 10:58:31,Sí,En desacuerdo,Sí,Benito Juárez,Hombre,29,Sí,Privado,No,1,No,Sí,No,2,1,1,No,Sí,1,3
+11/18/2021 11:01:21,Sí,De acuerdo,Sí,Azcapotzalco,Hombre,41,Sí,Privado,Sí,1,Sí,No,No,3,2,2,Sí,Sí,3,3
+11/18/2021 11:12:02,Sí,En desacuerdo,Sí,Benito Juárez,Mujer,48,Sí,Privado,Sí,1,No,No,No,3,1,1,Sí,Sí,2,2
+11/18/2021 11:13:17,Sí,Neutral,Sí,Iztacalco,Mujer,25,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,2,2,Sí,Sí,1,1
+11/18/2021 11:14:20,Sí,Neutral,Sí,Benito Juárez,Mujer,25,No,Público/Colectivo,Sí,No tengo (0 hijos),,,,10,6,1,Sí,No,2,1
+11/18/2021 11:15:55,Sí,De acuerdo,Sí,Cuahutémoc,Mujer,33,Sí,Privado,Sí,No tengo (0 hijos),,,,3,3,3,No,Sí,3,4
+11/18/2021 11:16:52,Sí,Neutral,Sí,No vivo en CDMX,Mujer,19,Sí,Privado,No,No tengo (0 hijos),,,,3,1,0,Sí,Sí,2,2
+11/18/2021 11:24:23,Sí,De acuerdo,Sí,Coyoacán,Hombre,29,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,4,4,3,Sí,Sí,3,2
+11/18/2021 11:24:41,Sí,Neutral,Sí,Coyoacán,Mujer,31,Sí,Privado,Sí,No tengo (0 hijos),,,,4,4,1,Sí,Sí,3,3
+11/18/2021 11:30:16,Sí,En desacuerdo,Sí,Xochimilco,Hombre,25,Sí,Privado,No,No tengo (0 hijos),,,,3,3,2,Sí,Sí,5,7
+11/18/2021 11:32:32,Sí,De acuerdo,Sí,Álvaro Obregón,Mujer,26,No,Privado,No,No tengo (0 hijos),,,,3,3,1,Sí,Sí,2,5
+11/18/2021 11:39:27,Sí,En desacuerdo,Sí,Álvaro Obregón,Mujer,29,No,Privado,No,No tengo (0 hijos),,,,3,2,0,No,Sí,8,4
+11/18/2021 11:40:01,Sí,Neutral,Sí,Iztapalapa,Mujer,25,Sí,Privado,Sí,2,No,Sí,No,5,1,4,Sí,Sí,1,3
+11/18/2021 11:45:50,Sí,De acuerdo,Sí,Coyoacán,Mujer,37,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,1,2
+11/18/2021 11:48:21,Sí,Neutral,Sí,Álvaro Obregón,Mujer,29,Sí,Privado,No,No tengo (0 hijos),,,,3,3,1,Sí,Sí,1,3
+11/18/2021 11:48:58,Sí,De acuerdo,Sí,Benito Juárez,Hombre,30,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,2,3
+11/18/2021 11:50:08,Sí,De acuerdo,Sí,Álvaro Obregón,Mujer,28,Sí,Privado,Sí,No tengo (0 hijos),,,,4,3,2,Sí,Sí,3,6
+11/18/2021 11:52:56,Sí,De acuerdo,Sí,Cuajimalpa,Mujer,27,Sí,Privado,No,No tengo (0 hijos),,,,4,4,2,Sí,Sí,4,6
+11/18/2021 11:53:09,Sí,Muy de acuerdo,Sí,Álvaro Obregón,Hombre,30,Sí,Privado,Sí,No tengo (0 hijos),,,,3,2,2,Sí,Sí,3,5
+11/18/2021 11:54:51,Sí,En desacuerdo,Sí,Benito Juárez,Hombre,30,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,2,3
+11/18/2021 11:55:52,Sí,Neutral,Sí,Álvaro Obregón,Hombre,29,Sí,Público/Colectivo,No,No tengo (0 hijos),,,,2,2,2,Sí,Sí,5,3
+11/18/2021 11:56:17,Sí,De acuerdo,Sí,Benito Juárez,Hombre,29,No,Privado,Sí,No tengo (0 hijos),,,,1,1,1,No,Sí,1,1
+11/18/2021 11:57:01,Sí,Muy de acuerdo,Sí,Álvaro Obregón,Hombre,29,Sí,Privado,No,No tengo (0 hijos),,,,3,2,2,No,Sí,2,4
+11/18/2021 12:00:02,Sí,Neutral,Sí,Benito Juárez,Mujer,29,Sí,Privado,Sí,No tengo (0 hijos),,,,4,2,2,Sí,Sí,2,2
+11/18/2021 12:02:17,Sí,Muy de acuerdo,Sí,No vivo en CDMX,Hombre,18,Sí,Privado,No,No tengo (0 hijos),,,,2,0,1,Sí,Sí,3,4
+11/18/2021 12:02:38,Sí,De acuerdo,Sí,Miguel Hidalgo,Mujer,31,Sí,Privado,No,No tengo (0 hijos),,,,3,3,3,No,Sí,1,8
+11/18/2021 12:16:23,Sí,De acuerdo,Sí,No vivo en CDMX,Hombre,39,Sí,Privado,Sí,No tengo (0 hijos),,,,4,2,4,Sí,Sí,3,4
+11/18/2021 12:26:40,Sí,De acuerdo,Sí,Miguel Hidalgo,Hombre,33,No,Público/Colectivo,No,No tengo (0 hijos),,,,2,2,1,No,Sí,1,2
+11/18/2021 12:27:48,Sí,Muy de acuerdo,No,Cuahutémoc,Hombre,28,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,2,3
+11/18/2021 12:59:23,Sí,De acuerdo,Sí,Milpa Alta,Mujer,33,Sí,Público/Colectivo,Sí,2,Sí,Sí,No,3,0,0,Sí,Sí,1,0
+11/18/2021 13:11:48,Sí,En desacuerdo,Sí,Álvaro Obregón,Hombre,26,Sí,Privado,No,No tengo (0 hijos),,,,4,2,2,No,Sí,3,5
+11/18/2021 13:13:05,Sí,De acuerdo,Sí,Álvaro Obregón,Mujer,24,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,2,5
+11/18/2021 13:16:00,Sí,En desacuerdo,Sí,Cuahutémoc,Mujer,36,Sí,Público/Colectivo,No,No tengo (0 hijos),,,,1,1,0,No,Sí,0,2
+11/18/2021 13:16:35,Sí,De acuerdo,Sí,Benito Juárez,Hombre,25,Sí,Privado,No,No tengo (0 hijos),,,,3,3,3,No,Sí,4,6
+11/18/2021 13:17:02,Sí,En desacuerdo,Sí,No vivo en CDMX,Hombre,26,Sí,Privado,No,No tengo (0 hijos),,,,5,3,1,Sí,Sí,5,4
+11/18/2021 13:17:55,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,23,Sí,Privado,No,No tengo (0 hijos),,,,6,3,3,No,Sí,4,9
+11/18/2021 13:19:46,Sí,Muy de acuerdo,Sí,Coyoacán,Hombre,26,Sí,Privado,No,No tengo (0 hijos),,,,3,1,1,Sí,Sí,3,4
+11/18/2021 13:26:28,Sí,Neutral,Sí,Álvaro Obregón,Hombre,29,Sí,Público/Colectivo,No,No tengo (0 hijos),,,,1,1,0,No,Sí,2,2
+11/18/2021 13:35:14,Sí,De acuerdo,Sí,Álvaro Obregón,Mujer,57,Sí,Privado,Sí,2,No,No,No,3,3,2,No,Sí,1,5
+11/18/2021 13:43:18,Sí,En desacuerdo,Sí,Tlalpan,Mujer,25,Sí,Privado,Sí,No tengo (0 hijos),,,,5,3,3,No,Sí,3,5
+11/18/2021 13:43:40,Sí,De acuerdo,Sí,Coyoacán,Hombre,28,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,1,3
+11/18/2021 13:48:00,Sí,Neutral,Sí,No vivo en CDMX,Hombre,25,No,Privado,No,No tengo (0 hijos),,,,1,1,1,No,Sí,4,2
+11/18/2021 13:51:15,Sí,De acuerdo,Sí,Miguel Hidalgo,Hombre,29,No,Público/Colectivo,No,No tengo (0 hijos),,,,1,1,1,No,Sí,2,2
+11/18/2021 13:51:15,Sí,De acuerdo,Sí,Miguel Hidalgo,Hombre,29,No,Público/Colectivo,No,No tengo (0 hijos),,,,1,1,1,No,Sí,2,2
+11/18/2021 13:53:32,Sí,Muy de acuerdo,Sí,Magdalena Contreras,Hombre,41,Sí,Privado,No,3,Sí,Sí,No,5,2,1,Sí,Sí,2,6
+11/18/2021 13:59:55,Sí,De acuerdo,Sí,Álvaro Obregón,Mujer,44,Sí,Privado,No,3,Sí,Sí,No,5,2,1,No,Sí,1,6
+11/18/2021 14:00:45,Sí,Muy de acuerdo,Sí,Álvaro Obregón,Mujer,50,No,Privado,No,1,No,Sí,No,3,2,2,No,Sí,3,3
+11/18/2021 14:03:36,Sí,En desacuerdo,Sí,No vivo en CDMX,Hombre,26,Sí,Privado,Sí,No tengo (0 hijos),,,,3,3,3,No,Sí,2,2
+11/18/2021 14:04:54,Sí,Muy en desacuerdo,Sí,No vivo en CDMX,Hombre,26,Sí,Privado,No,No tengo (0 hijos),,,,5,4,2,Sí,Sí,2,5
+11/18/2021 14:05:35,Sí,De acuerdo,Sí,Álvaro Obregón,Hombre,25,Sí,Privado,No,No tengo (0 hijos),,,,2,2,1,No,Sí,3,4
+11/18/2021 14:18:57,Sí,Muy en desacuerdo,Sí,Álvaro Obregón,Hombre,51,Sí,Privado,Sí,1,Sí,No,No,3,2,3,No,Sí,2,4
+11/18/2021 14:22:58,No,,,,,,,,,,,,,,,,,,,
+11/18/2021 14:30:58,Sí,Muy de acuerdo,Sí,Benito Juárez,Mujer,56,Sí,Privado,No,3,No,No,No,2,4,0,No,Sí,1,4
+11/18/2021 14:39:16,Sí,En desacuerdo,Sí,Benito Juárez,Mujer,43,Sí,Privado,Sí,1,Sí,No,No,3,2,3,No,Sí,2,2
+11/18/2021 14:39:34,Sí,En desacuerdo,Sí,Álvaro Obregón,Mujer,52,Sí,Privado,No,3,No,Sí,No,4,2,1,No,Sí,1,3
+11/18/2021 14:47:27,Sí,Muy de acuerdo,Sí,Álvaro Obregón,Mujer,64,Sí,Privado,No,3,Sí,No,No,3,2,2,No,Sí,2,3
+11/18/2021 14:50:49,Sí,Muy de acuerdo,Sí,Álvaro Obregón,Mujer,55,Sí,Privado,No,No tengo (0 hijos),,,,1,1,1,Sí,Sí,1,1
+11/18/2021 14:52:11,Sí,Muy de acuerdo,Sí,Álvaro Obregón,Mujer,51,Sí,Privado,No,2,Sí,No,Sí,4,1,1,No,Sí,3,6
+11/18/2021 14:53:10,Sí,Muy de acuerdo,Sí,Álvaro Obregón,Mujer,42,Sí,Privado,Sí,1,Sí,No,No,3,1,1,Sí,Sí,6,6
+11/18/2021 14:54:37,Sí,En desacuerdo,Sí,Magdalena Contreras,Hombre,58,Sí,Privado,Sí,4,Sí,Sí,Sí,4,2,2,Sí,Sí,2,5
+11/18/2021 15:17:56,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,29,Sí,Público/Colectivo,No,No tengo (0 hijos),,,,4,4,1,Sí,Sí,3,7
+11/18/2021 15:21:35,Sí,De acuerdo,Sí,Cuahutémoc,Hombre,47,Sí,Público/Colectivo,Sí,2,Sí,No,Sí,4,2,2,No,Sí,1,3
+11/18/2021 15:25:24,Sí,En desacuerdo,No,Álvaro Obregón,Mujer,60,Sí,Privado,No,2,No,No,No,2,2,1,No,Sí,2,3
+11/18/2021 15:26:07,Sí,De acuerdo,Sí,Cuajimalpa,Hombre,28,Sí,Privado,No,No tengo (0 hijos),,,,5,3,3,Sí,Sí,1,5
+11/18/2021 15:29:56,Sí,Muy de acuerdo,Sí,Álvaro Obregón,Mujer,59,No,Privado,No,3,No,No,No,4,4,4,No,Sí,3,4
+11/18/2021 15:30:30,Sí,En desacuerdo,Sí,Álvaro Obregón,Mujer,59,Sí,Privado,No,3,No,No,No,5,2,1,Sí,Sí,2,6
+11/18/2021 15:31:57,Sí,Muy de acuerdo,Sí,Álvaro Obregón,Mujer,50,Sí,Privado,No,4,Sí,Sí,No,7,3,0,Sí,Sí,4,5
+11/18/2021 15:32:34,Sí,De acuerdo,Sí,Miguel Hidalgo,Mujer,40,Sí,Privado,Sí,2,Sí,Sí,No,4,2,1,Sí,Sí,2,3
+11/18/2021 15:35:58,Sí,De acuerdo,No,Álvaro Obregón,Mujer,48,Sí,Privado,Sí,1,Sí,No,No,3,2,2,Sí,Sí,2,5
+11/18/2021 15:36:57,Sí,Neutral,No,No vivo en CDMX,Hombre,28,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,2,5
+11/18/2021 15:40:04,Sí,Muy de acuerdo,Sí,Magdalena Contreras,Mujer,38,Sí,Privado,No,2,Sí,Sí,No,4,2,1,No,Sí,1,2
+11/18/2021 15:45:45,Sí,Muy de acuerdo,Sí,Álvaro Obregón,Mujer,54,Sí,Privado,No,3,Sí,No,No,4,4,2,No,Sí,3,4
+11/18/2021 16:04:42,Sí,En desacuerdo,Sí,Miguel Hidalgo,Mujer,53,Sí,Privado,Sí,2,No,No,No,3,2,2,Sí,Sí,3,3
+11/18/2021 16:06:06,Sí,De acuerdo,Sí,Benito Juárez,Hombre,31,Sí,Privado,No,No tengo (0 hijos),,,,1,1,0,No,Sí,3,1
+11/18/2021 16:14:52,Sí,De acuerdo,Sí,Benito Juárez,Hombre,36,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,Sí,Sí,2,6
+11/18/2021 16:15:37,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,24,No,Privado,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,1,2
+11/18/2021 16:18:07,Sí,En desacuerdo,No,Álvaro Obregón,Mujer,53,Sí,Privado,Sí,2,No,No,No,4,2,0,Sí,Sí,1,4
+11/18/2021 16:25:13,Sí,Muy en desacuerdo,Sí,Miguel Hidalgo,Mujer,25,Sí,Privado,No,No tengo (0 hijos),,,,3,2,2,Sí,Sí,5,10
+11/18/2021 16:31:19,Sí,De acuerdo,Sí,Benito Juárez,Hombre,33,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,3,3,Sí,Sí,3,3
+11/18/2021 16:38:49,Sí,En desacuerdo,Sí,Coyoacán,Mujer,32,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,2,2,Sí,Sí,1,5
+11/18/2021 16:41:39,Sí,De acuerdo,Sí,Álvaro Obregón,Hombre,36,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,1,4
+11/18/2021 16:45:23,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,30,Sí,Privado,No,No tengo (0 hijos),,,,4,2,2,Sí,Sí,4,5
+11/18/2021 16:49:14,Sí,Muy de acuerdo,Sí,Magdalena Contreras,Hombre,48,No,Privado,Sí,2,Sí,Sí,No,4,1,1,No,Sí,1,4
+11/18/2021 17:04:25,Sí,Muy de acuerdo,Sí,Tlalpan,Hombre,36,Sí,Privado,Sí,No tengo (0 hijos),,,,1,2,2,No,Sí,1,4
+11/18/2021 17:06:25,Sí,De acuerdo,Sí,No vivo en CDMX,Hombre,28,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,2,4
+11/18/2021 17:34:26,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,58,Sí,Público/Colectivo,Sí,3,Sí,No,No,3,2,2,No,Sí,1,2
+11/18/2021 18:44:08,Sí,Muy de acuerdo,Sí,Álvaro Obregón,Mujer,26,Sí,Público/Colectivo,Sí,2,Sí,No,No,4,1,1,No,No,1,0
+11/18/2021 18:48:02,Sí,De acuerdo,Sí,Álvaro Obregón,Mujer,59,Sí,Privado,No,1,Sí,Sí,No,3,2,2,Sí,Sí,3,6
+11/18/2021 18:52:25,Sí,De acuerdo,Sí,Benito Juárez,Hombre,32,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,1,2
+11/18/2021 18:56:17,Sí,Neutral,No,Iztapalapa,Hombre,33,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,3,3,No,Sí,4,6
+11/18/2021 19:42:11,Sí,De acuerdo,Sí,Venustiano Carranza,Mujer,25,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,3,1,Sí,Sí,4,3
+11/18/2021 19:43:06,Sí,De acuerdo,Sí,Benito Juárez,Hombre,43,Sí,Privado,Sí,2,Sí,No,No,4,0,0,Sí,Sí,1,5
+11/18/2021 19:47:33,Sí,En desacuerdo,Sí,Benito Juárez,Hombre,46,Sí,Privado,Sí,2,No,Sí,No,4,2,2,Sí,Sí,0,4
+11/18/2021 20:01:50,Sí,De acuerdo,No,No vivo en CDMX,Mujer,50,No,Privado,Sí,2,No,No,No,3,2,0,No,Sí,3,2
+11/18/2021 20:16:44,Sí,En desacuerdo,Sí,Iztapalapa,Mujer,27,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,4,1,1,Sí,Sí,2,2
+11/18/2021 20:23:47,Sí,Muy de acuerdo,Sí,Álvaro Obregón,Mujer,46,Sí,Privado,Sí,1,Sí,Sí,No,5,3,2,No,Sí,2,3
+11/18/2021 20:24:35,Sí,Muy en desacuerdo,Sí,Gustavo A. Madero,Hombre,34,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,3,3,Sí,Sí,1,3
+11/18/2021 20:29:12,Sí,En desacuerdo,Sí,Álvaro Obregón,Mujer,52,Sí,Privado,Sí,2,No,Sí,No,4,2,2,Sí,Sí,2,4
+11/18/2021 20:34:42,Sí,En desacuerdo,Sí,Cuajimalpa,Mujer,46,Sí,Privado,Sí,No tengo (0 hijos),,,,5,3,2,No,Sí,2,2
+11/18/2021 20:36:15,Sí,De acuerdo,Sí,No vivo en CDMX,Hombre,25,No,Privado,Sí,No tengo (0 hijos),,,,4,1,1,Sí,Sí,5,3
+11/18/2021 20:40:48,Sí,De acuerdo,Sí,Coyoacán,Mujer,32,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,3,2
+11/18/2021 20:48:22,Sí,De acuerdo,Sí,Benito Juárez,Hombre,31,No,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,3,2,No,Sí,1,3
+11/18/2021 20:59:13,Sí,De acuerdo,Sí,Azcapotzalco,Mujer,47,Sí,Público/Colectivo,Sí,2,No,No,No,5,2,2,Sí,Sí,3,2
+11/18/2021 21:02:24,Sí,Muy de acuerdo,No,Benito Juárez,Mujer,48,No,Privado,Sí,1,No,Sí,No,2,1,1,No,Sí,2,2
+11/18/2021 21:06:31,Sí,Neutral,Sí,No vivo en CDMX,Mujer,25,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,4,3,1,Sí,Sí,2,2
+11/18/2021 21:08:14,Sí,En desacuerdo,Sí,No vivo en CDMX,Mujer,47,Sí,Público/Colectivo,Sí,3,No,No,No,3,2,1,No,Sí,2,4
+11/18/2021 21:10:22,Sí,Neutral,Sí,No vivo en CDMX,Mujer,47,Sí,Privado,Sí,No tengo (0 hijos),,,,1,1,1,No,Sí,1,3
+11/18/2021 21:14:42,Sí,En desacuerdo,Sí,No vivo en CDMX,Mujer,26,Sí,Privado,No,No tengo (0 hijos),,,,3,3,2,No,Sí,4,3
+11/18/2021 21:25:48,Sí,Neutral,Sí,Xochimilco,Mujer,48,Sí,Privado,Sí,2,Sí,No,Sí,4,2,1,Sí,Sí,2,2
+11/18/2021 21:28:27,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,51,Sí,Público/Colectivo,No,2,No,No,No,5,2,0,No,Sí,2,1
+11/18/2021 21:28:53,Sí,Muy de acuerdo,Sí,No vivo en CDMX,Mujer,47,No,Privado,Sí,2,Sí,No,No,3,1,1,Sí,Sí,3,1
+11/18/2021 21:31:11,Sí,De acuerdo,Sí,Miguel Hidalgo,Mujer,36,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,1,1,No,Sí,1,2
+11/18/2021 21:31:39,Sí,En desacuerdo,Sí,Azcapotzalco,Mujer,50,Sí,Privado,Sí,2,No,Sí,No,4,2,2,Sí,Sí,3,4
+11/18/2021 21:35:52,Sí,De acuerdo,Sí,Miguel Hidalgo,Mujer,38,No,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,1,2
+11/18/2021 21:49:25,Sí,Neutral,No,No vivo en CDMX,Mujer,52,Sí,Público/Colectivo,Sí,1,Sí,Sí,No,4,2,0,Sí,Sí,3,1
+11/18/2021 22:19:27,Sí,Muy en desacuerdo,Sí,No vivo en CDMX,Hombre,44,Sí,Público/Colectivo,Sí,2,Sí,Sí,No,5,1,1,Sí,Sí,4,5
+11/18/2021 22:24:50,Sí,Neutral,Sí,No vivo en CDMX,Hombre,45,Sí,Privado,Sí,1,Sí,No,No,2,2,2,No,Sí,4,9
+11/18/2021 22:25:32,Sí,Neutral,Sí,Azcapotzalco,Hombre,30,Sí,Privado,Sí,No tengo (0 hijos),,,,1,1,0,No,Sí,4,2
+11/18/2021 23:09:27,Sí,De acuerdo,Sí,Iztapalapa,Mujer,45,Sí,Público/Colectivo,Sí,2,No,No,No,3,1,1,No,Sí,1,1
+11/18/2021 23:23:13,Sí,Neutral,Sí,Cuajimalpa,Mujer,28,Sí,Privado,No,No tengo (0 hijos),,,,4,1,1,Sí,Sí,1,5
+11/19/2021 0:44:53,Sí,Neutral,Sí,Benito Juárez,Mujer,42,Sí,Privado,Sí,2,Sí,No,Sí,4,2,2,No,Sí,5,4
+11/19/2021 1:36:15,Sí,Muy de acuerdo,No,Gustavo A. Madero,Mujer,58,Sí,Privado,No,2,No,No,No,3,0,0,No,Sí,2,3
+11/19/2021 5:53:23,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,27,Sí,Privado,No,1,No,No,No,3,1,2,No,Sí,1,1
+11/19/2021 7:45:14,Sí,Muy en desacuerdo,Sí,Azcapotzalco,Mujer,43,Sí,Privado,Sí,1,No,No,Sí,3,2,0,Sí,Sí,3,4
+11/19/2021 7:53:16,Sí,En desacuerdo,No,Miguel Hidalgo,Mujer,32,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,2,4
+11/19/2021 8:23:28,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,36,No,Privado,Sí,2,No,No,No,4,2,2,Sí,Sí,2,3
+11/19/2021 8:38:09,Sí,De acuerdo,Sí,Azcapotzalco,Hombre,59,Sí,Privado,Sí,1,Sí,No,No,3,1,1,Sí,Sí,4,4
+11/19/2021 8:40:31,Sí,De acuerdo,Sí,Azcapotzalco,Hombre,59,Sí,Privado,Sí,1,Sí,No,No,3,3,1,Sí,Sí,4,4
+11/19/2021 8:55:18,Sí,Muy en desacuerdo,Sí,Benito Juárez,Mujer,34,No,Privado,Sí,No tengo (0 hijos),,,,2,2,1,Sí,Sí,2,0
+11/19/2021 8:57:10,Sí,De acuerdo,Sí,Benito Juárez,Hombre,32,Sí,Privado,No,No tengo (0 hijos),,,,1,1,1,No,Sí,1,4
+11/19/2021 9:28:30,Sí,De acuerdo,Sí,Benito Juárez,Mujer,20,Sí,Privado,No,No tengo (0 hijos),,,,3,3,1,No,Sí,1,4
+11/19/2021 9:46:48,Sí,Neutral,No,Álvaro Obregón,Mujer,57,No,Privado,Sí,2,No,No,No,4,2,2,No,Sí,3,4
+11/19/2021 9:58:39,Sí,De acuerdo,Sí,Cuahutémoc,Mujer,31,Sí,Público/Colectivo,No,No tengo (0 hijos),,,,2,1,1,Sí,Sí,3,4
+11/19/2021 9:58:43,Sí,De acuerdo,Sí,Álvaro Obregón,Mujer,35,Sí,Público/Colectivo,No,2,Sí,Sí,No,4,2,1,Sí,Sí,4,9
+11/19/2021 10:16:12,Sí,Muy de acuerdo,Sí,Gustavo A. Madero,Mujer,29,No,Público/Colectivo,Sí,No tengo (0 hijos),,,,5,3,3,Sí,Sí,3,5
+11/19/2021 10:28:14,Sí,Muy en desacuerdo,Sí,Miguel Hidalgo,Hombre,36,Sí,Público/Colectivo,Sí,1,No,Sí,No,3,2,3,No,Sí,2,2
+11/19/2021 11:13:23,Sí,Neutral,Sí,Benito Juárez,Mujer,30,Sí,Privado,No,No tengo (0 hijos),,,,1,2,1,No,Sí,3,2
+11/19/2021 11:41:51,Sí,En desacuerdo,Sí,Miguel Hidalgo,Mujer,32,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,1,5
+11/19/2021 12:51:04,Sí,Muy de acuerdo,Sí,Gustavo A. Madero,Mujer,50,Sí,Privado,No,1,No,No,No,3,1,1,Sí,Sí,4,5
+11/19/2021 12:53:44,Sí,De acuerdo,No,Gustavo A. Madero,Mujer,34,No,Privado,Sí,2,Sí,Sí,No,4,1,1,Sí,Sí,3,2
+11/19/2021 13:39:36,Sí,De acuerdo,Sí,Cuahutémoc,Hombre,34,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,1,4
+11/19/2021 14:56:52,Sí,De acuerdo,Sí,Benito Juárez,Mujer,33,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,2,2
+11/19/2021 15:17:15,Sí,De acuerdo,Sí,Benito Juárez,Mujer,30,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,1,1,1,No,Sí,1,3
+11/19/2021 15:58:28,Sí,En desacuerdo,Sí,Iztapalapa,Mujer,48,Sí,Público/Colectivo,Sí,1,No,No,Sí,3,2,2,No,Sí,1,2
+11/19/2021 16:05:36,Sí,Muy de acuerdo,Sí,No vivo en CDMX,Hombre,26,Sí,Privado,Sí,No tengo (0 hijos),,,,3,2,3,No,Sí,1,3
+11/19/2021 16:08:13,Sí,Muy en desacuerdo,Sí,Iztapalapa,Mujer,55,Sí,Público/Colectivo,Sí,1,No,Sí,No,1,1,1,Sí,Sí,2,2
+11/19/2021 16:17:13,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,46,Sí,Público/Colectivo,Sí,2,Sí,Sí,No,4,1,4,No,Sí,2,2
+11/19/2021 16:43:49,Sí,Muy de acuerdo,Sí,Iztapalapa,Hombre,41,Sí,Privado,Sí,1,Sí,No,Sí,3,2,2,No,Sí,3,5
+11/19/2021 16:59:02,Sí,Muy de acuerdo,Sí,Gustavo A. Madero,Mujer,47,No,Público/Colectivo,Sí,2,No,Sí,Sí,5,2,0,Sí,Sí,1,0
+11/19/2021 17:15:05,Sí,De acuerdo,Sí,Cuahutémoc,Mujer,30,Sí,Privado,No,No tengo (0 hijos),,,,4,3,2,Sí,Sí,2,6
+11/19/2021 17:35:51,Sí,De acuerdo,Sí,Coyoacán,Mujer,60,Sí,Privado,Sí,2,Sí,No,No,2,2,1,No,Sí,2,2
+11/19/2021 17:39:38,Sí,Muy de acuerdo,Sí,Iztapalapa,Mujer,48,Sí,Público/Colectivo,Sí,2,No,No,Sí,4,2,1,No,Sí,2,2
+11/19/2021 18:25:23,Sí,Muy en desacuerdo,Sí,Álvaro Obregón,Hombre,28,Sí,Privado,No,No tengo (0 hijos),,,,3,1,1,No,Sí,1,6
+11/19/2021 18:31:30,Sí,Muy de acuerdo,Sí,Álvaro Obregón,Hombre,94,Sí,Privado,Sí,3,No,No,No,1,0,0,Sí,Sí,2,2
+11/19/2021 18:59:09,Sí,Neutral,Sí,Miguel Hidalgo,Hombre,33,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,2,2
+11/19/2021 19:06:50,Sí,De acuerdo,Sí,Gustavo A. Madero,Mujer,46,Sí,Público/Colectivo,Sí,2,No,No,Sí,4,2,4,No,Sí,2,5
+11/19/2021 19:14:35,Sí,Neutral,Sí,Benito Juárez,Hombre,31,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,2,4
+11/19/2021 19:19:15,Sí,Muy de acuerdo,Sí,Benito Juárez,Mujer,50,Sí,Privado,Sí,2,Sí,Sí,Sí,4,1,1,No,Sí,3,3
+11/19/2021 19:25:40,Sí,Neutral,Sí,Gustavo A. Madero,Mujer,46,Sí,Público/Colectivo,Sí,1,Sí,Sí,No,3,2,1,No,Sí,1,4
+11/19/2021 19:55:38,Sí,Muy de acuerdo,Sí,Iztapalapa,Mujer,23,Sí,Público/Colectivo,Sí,1,Sí,Sí,No,4,3,2,No,Sí,3,3
+11/19/2021 19:56:13,Sí,Muy de acuerdo,Sí,Benito Juárez,Hombre,57,Sí,Público/Colectivo,Sí,1,Sí,No,No,3,1,3,Sí,Sí,3,1
+11/19/2021 20:04:14,Sí,De acuerdo,Sí,Álvaro Obregón,Mujer,28,Sí,Privado,No,No tengo (0 hijos),,,,5,3,4,No,Sí,4,5
+11/19/2021 21:01:09,Sí,En desacuerdo,No,No vivo en CDMX,Mujer,31,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,3,3,Sí,Sí,4,3
+11/19/2021 21:05:38,Sí,En desacuerdo,Sí,Benito Juárez,Mujer,48,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,4,2,2,Sí,Sí,2,2
+11/19/2021 21:29:18,Sí,Muy en desacuerdo,Sí,Coyoacán,Mujer,30,Sí,Privado,Sí,2,Sí,Sí,Sí,4,2,4,Sí,Sí,3,6
+11/19/2021 21:33:17,Sí,Muy en desacuerdo,Sí,Gustavo A. Madero,Hombre,24,No,Público/Colectivo,Sí,1,Sí,Sí,No,3,1,1,No,Sí,2,1
+11/19/2021 21:42:50,Sí,De acuerdo,Sí,Cuahutémoc,Mujer,45,Sí,Privado,No,No tengo (0 hijos),,,,1,1,1,No,Sí,1,2
+11/19/2021 21:44:38,Sí,Neutral,Sí,Gustavo A. Madero,Mujer,35,Sí,Privado,Sí,No tengo (0 hijos),,,,3,2,3,Sí,Sí,5,3
+11/19/2021 21:58:07,Sí,De acuerdo,Sí,Iztapalapa,Mujer,45,Sí,Público/Colectivo,Sí,2,No,No,Sí,4,2,2,No,Sí,3,4
+11/19/2021 22:04:57,Sí,Neutral,Sí,Iztapalapa,Hombre,57,No,Público/Colectivo,Sí,1,No,No,No,3,2,2,Sí,Sí,1,1
+11/19/2021 22:17:20,Sí,En desacuerdo,Sí,Iztapalapa,Mujer,53,No,Público/Colectivo,Sí,1,No,No,No,2,1,1,Sí,Sí,2,2
+11/19/2021 22:26:16,Sí,De acuerdo,Sí,Iztapalapa,Mujer,52,Sí,Privado,Sí,2,No,No,No,2,1,1,Sí,Sí,2,2
+11/19/2021 22:29:56,Sí,Muy de acuerdo,Sí,Gustavo A. Madero,Mujer,49,No,Privado,Sí,2,Sí,Sí,Sí,4,1,0,No,Sí,3,1
+11/19/2021 22:52:20,Sí,En desacuerdo,Sí,No vivo en CDMX,Mujer,62,Sí,Público/Colectivo,Sí,2,Sí,No,No,2,2,2,Sí,Sí,3,2
+11/19/2021 22:54:32,Sí,En desacuerdo,Sí,No vivo en CDMX,Mujer,62,Sí,Público/Colectivo,Sí,2,Sí,No,No,2,2,2,Sí,Sí,3,2
+11/19/2021 22:56:24,Sí,En desacuerdo,Sí,Miguel Hidalgo,Mujer,50,Sí,Privado,Sí,1,No,No,Sí,3,2,3,Sí,Sí,3,6
+11/19/2021 23:14:31,Sí,De acuerdo,No,Álvaro Obregón,Hombre,25,Sí,Público/Colectivo,No,No tengo (0 hijos),,,,3,1,2,Sí,Sí,5,4
+11/19/2021 23:32:23,Sí,De acuerdo,Sí,Venustiano Carranza,Mujer,47,Sí,Privado,Sí,No tengo (0 hijos),,,,1,1,1,No,Sí,3,3
+11/19/2021 23:37:28,Sí,De acuerdo,Sí,Cuahutémoc,Mujer,40,Sí,Público/Colectivo,Sí,2,No,Sí,No,5,3,3,Sí,Sí,1,1
+11/19/2021 23:42:11,Sí,De acuerdo,Sí,Álvaro Obregón,Mujer,25,Sí,Privado,No,No tengo (0 hijos),,,,3,3,3,No,Sí,4,3
+11/20/2021 0:43:25,Sí,Neutral,Sí,Iztapalapa,Mujer,28,Sí,Privado,No,1,Sí,Sí,No,5,3,5,Sí,Sí,3,7
+11/20/2021 1:19:47,Sí,Muy de acuerdo,No,No vivo en CDMX,Mujer,54,Sí,Privado,Sí,2,No,No,No,4,4,4,Sí,Sí,4,2
+11/20/2021 1:30:36,Sí,En desacuerdo,Sí,Iztapalapa,Mujer,67,Sí,Privado,Sí,2,No,No,Sí,4,1,2,Sí,Sí,2,2
+11/20/2021 3:34:19,Sí,Muy de acuerdo,Sí,Iztapalapa,Mujer,36,No,Público/Colectivo,Sí,1,Sí,No,No,3,2,2,No,Sí,1,1
+11/20/2021 4:19:02,Sí,En desacuerdo,Sí,Tlalpan,Mujer,31,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,2,6
+11/20/2021 5:32:49,Sí,Neutral,Sí,Gustavo A. Madero,Mujer,28,No,Público/Colectivo,Sí,No tengo (0 hijos),,,,9,5,5,Sí,Sí,6,5
+11/20/2021 5:35:13,Sí,De acuerdo,Sí,Cuahutémoc,Mujer,53,No,Público/Colectivo,Sí,2,No,No,No,3,2,2,Sí,Sí,3,2
+11/20/2021 6:18:29,Sí,Muy en desacuerdo,Sí,Cuahutémoc,Mujer,41,Sí,Privado,No,1,No,Sí,No,3,1,1,Sí,Sí,1,2
+11/20/2021 7:15:39,Sí,Muy de acuerdo,Sí,No vivo en CDMX,Mujer,40,Sí,Privado,Sí,2,No,Sí,No,4,2,2,Sí,Sí,1,4
+11/20/2021 8:26:20,Sí,De acuerdo,Sí,Miguel Hidalgo,Mujer,31,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,1,1,1,No,Sí,2,2
+11/20/2021 8:27:09,Sí,Neutral,Sí,Iztapalapa,Mujer,40,Sí,Público/Colectivo,Sí,1,No,No,Sí,3,2,1,No,Sí,2,2
+11/20/2021 9:56:43,Sí,Neutral,Sí,Benito Juárez,Mujer,46,Sí,Público/Colectivo,Sí,2,Sí,Sí,No,3,1,3,No,Sí,3,3
+11/20/2021 10:07:53,Sí,De acuerdo,Sí,Gustavo A. Madero,Hombre,40,Sí,Privado,Sí,2,No,No,No,4,1,1,No,Sí,3,4
+11/20/2021 10:40:16,Sí,Neutral,Sí,No vivo en CDMX,Hombre,31,Sí,Privado,Sí,No tengo (0 hijos),,,,5,3,3,Sí,Sí,4,4
+11/20/2021 10:57:50,Sí,Muy de acuerdo,Sí,No vivo en CDMX,Hombre,41,Sí,Privado,Sí,2,No,Sí,No,4,2,1,No,Sí,1,4
+11/20/2021 11:20:01,Sí,De acuerdo,Sí,Cuahutémoc,Mujer,47,Sí,Privado,No,No tengo (0 hijos),,,,2,2,0,Sí,Sí,1,4
+11/20/2021 12:10:18,Sí,Muy en desacuerdo,Sí,Iztapalapa,Mujer,48,Sí,Público/Colectivo,Sí,2,No,No,No,4,2,1,Sí,Sí,1,4
+11/20/2021 12:40:43,Sí,En desacuerdo,Sí,Benito Juárez,Mujer,30,Sí,Privado,No,No tengo (0 hijos),,,,2,2,1,No,Sí,1,4
+11/20/2021 14:35:03,Sí,Muy en desacuerdo,Sí,Iztapalapa,Hombre,37,Sí,Público/Colectivo,Sí,1,No,No,No,6,2,2,Sí,Sí,2,3
+11/20/2021 16:27:11,Sí,Muy de acuerdo,Sí,Tlalpan,Mujer,30,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,1,1,Sí,No,2,0
+11/20/2021 18:35:16,Sí,Muy de acuerdo,Sí,Iztapalapa,Mujer,49,Sí,Público/Colectivo,Sí,5,No,No,Sí,4,1,0,No,Sí,10,0
+11/20/2021 19:10:34,Sí,Muy de acuerdo,Sí,No vivo en CDMX,Hombre,28,No,Público/Colectivo,Sí,No tengo (0 hijos),,,,4,1,1,Sí,Sí,3,1
+11/20/2021 19:43:34,Sí,En desacuerdo,Sí,Tlalpan,Mujer,41,Sí,Público/Colectivo,Sí,1,No,No,Sí,2,1,0,No,Sí,3,3
+11/21/2021 13:43:03,Sí,De acuerdo,Sí,Benito Juárez,Mujer,30,No,Privado,No,No tengo (0 hijos),,,,4,4,3,No,Sí,3,7
+11/23/2021 11:59:37,Sí,De acuerdo,Sí,Milpa Alta,Hombre,24,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,4,2,3,No,Sí,2,2
+11/23/2021 12:03:45,Sí,En desacuerdo,Sí,Iztacalco,Mujer,26,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,5,4,4,Sí,Sí,2,4
+11/23/2021 12:05:34,Sí,Muy de acuerdo,Sí,Cuahutémoc,Mujer,35,Sí,Privado,No,2,Sí,Sí,No,4,2,4,No,Sí,4,5
+11/23/2021 12:05:53,Sí,En desacuerdo,Sí,Milpa Alta,Mujer,24,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,4,1,0,Sí,Sí,1,1
+11/23/2021 12:19:40,Sí,En desacuerdo,Sí,Gustavo A. Madero,Mujer,29,Sí,Privado,Sí,No tengo (0 hijos),,,,6,2,1,Sí,Sí,2,6
+11/23/2021 12:28:16,Sí,De acuerdo,Sí,Iztapalapa,Hombre,30,Sí,Privado,Sí,No tengo (0 hijos),,,,6,6,5,Sí,Sí,2,2
+11/23/2021 12:49:59,Sí,De acuerdo,Sí,Cuahutémoc,Mujer,28,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,2,2,No,Sí,0,3
+11/23/2021 13:04:05,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,40,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,3,4
+11/23/2021 13:06:56,Sí,Neutral,Sí,No vivo en CDMX,Mujer,27,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,1,3,Sí,Sí,2,3
+11/23/2021 13:08:10,Sí,Neutral,Sí,No vivo en CDMX,Mujer,27,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,1,3,Sí,Sí,2,3
+11/23/2021 13:12:34,Sí,En desacuerdo,Sí,Xochimilco,Mujer,49,Sí,Privado,No,2,Sí,No,Sí,4,2,2,No,Sí,1,4
+11/23/2021 13:18:49,Sí,Neutral,Sí,Benito Juárez,Mujer,45,Sí,Privado,No,No tengo (0 hijos),,,,2,2,2,No,Sí,4,4
+11/23/2021 14:30:28,Sí,De acuerdo,Sí,Benito Juárez,Mujer,32,Sí,Público/Colectivo,No,No tengo (0 hijos),,,,5,2,2,Sí,Sí,2,2
+11/23/2021 14:32:19,Sí,Neutral,Sí,No vivo en CDMX,Mujer,36,Sí,Privado,Sí,2,No,Sí,Sí,4,2,1,No,Sí,1,2
+11/23/2021 14:34:43,Sí,De acuerdo,Sí,No vivo en CDMX,Hombre,45,Sí,Privado,Sí,No tengo (0 hijos),,,,4,2,1,Sí,No,1,1
+11/23/2021 14:35:47,Sí,En desacuerdo,Sí,Iztacalco,Hombre,40,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,22,2,No,Sí,2,4
+11/23/2021 14:39:55,Sí,En desacuerdo,Sí,Benito Juárez,Mujer,40,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,2,2,0,Sí,Sí,2,2
+11/23/2021 14:53:15,Sí,Muy de acuerdo,Sí,No vivo en CDMX,Mujer,41,No,Público/Colectivo,Sí,No tengo (0 hijos),,,,4,2,2,Sí,Sí,2,3
+11/23/2021 15:42:11,Sí,De acuerdo,Sí,Coyoacán,Hombre,38,Sí,Privado,Sí,No tengo (0 hijos),,,,4,4,4,Sí,Sí,1,4
+11/23/2021 15:55:04,Sí,En desacuerdo,Sí,No vivo en CDMX,Hombre,28,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,6,3,3,Sí,Sí,1,3
+11/23/2021 16:37:39,Sí,En desacuerdo,Sí,Iztapalapa,Hombre,30,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,3,3,0,Sí,Sí,1,2
+11/23/2021 16:42:37,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,26,Sí,Público/Colectivo,Sí,1,Sí,Sí,No,6,5,2,Sí,Sí,2,3
+11/23/2021 17:56:13,Sí,De acuerdo,Sí,Iztapalapa,Mujer,38,No,Público/Colectivo,Sí,2,No,Sí,Sí,3,11,1,Sí,Sí,1,0
+11/23/2021 19:32:06,Sí,Muy de acuerdo,Sí,Miguel Hidalgo,Hombre,27,Sí,Privado,No,No tengo (0 hijos),,,,2,2,0,No,Sí,0,3
+11/23/2021 20:23:53,Sí,Neutral,Sí,Benito Juárez,Hombre,26,Sí,Privado,No,No tengo (0 hijos),,,,4,4,2,Sí,Sí,3,10
+11/23/2021 20:33:06,Sí,De acuerdo,Sí,Álvaro Obregón,Hombre,26,Sí,Público/Colectivo,Sí,No tengo (0 hijos),,,,1,0,0,No,Sí,1,1
+11/23/2021 22:45:07,Sí,En desacuerdo,Sí,No vivo en CDMX,Hombre,24,Sí,Privado,Sí,No tengo (0 hijos),,,,4,2,2,No,Sí,5,7
+11/24/2021 6:58:37,Sí,De acuerdo,Sí,No vivo en CDMX,Hombre,25,Sí,Privado,Sí,No tengo (0 hijos),,,,2,2,2,Sí,Sí,2,3
+11/24/2021 7:00:01,Sí,Neutral,Sí,No vivo en CDMX,Hombre,25,Sí,Privado,No,No tengo (0 hijos),,,,4,2,2,Sí,Sí,2,4
+11/24/2021 10:05:05,Sí,Neutral,Sí,Benito Juárez,Mujer,19,Sí,Privado,No,No tengo (0 hijos),,,,3,2,2,Sí,Sí,2,5
+11/24/2021 12:18:10,Sí,De acuerdo,Sí,Coyoacán,Mujer,36,Sí,Privado,Sí,1,Sí,No,No,3,2,0,No,Sí,2,3
+11/24/2021 12:19:02,Sí,De acuerdo,Sí,Coyoacán,Hombre,38,Sí,Privado,No,1,Sí,No,No,3,2,2,No,Sí,2,5
+11/24/2021 12:25:21,Sí,De acuerdo,Sí,Benito Juárez,Hombre,66,Sí,Privado,Sí,2,No,No,No,2,2,2,No,Sí,3,3
+11/24/2021 13:19:33,No,,,,,,,,,,,,,,,,,,,
+11/24/2021 15:48:55,Sí,De acuerdo,Sí,Benito Juárez,Hombre,33,Sí,Privado,No,No tengo (0 hijos),,,,3,3,1,No,Sí,3,4
+11/26/2021 13:01:30,Sí,De acuerdo,Sí,Benito Juárez,Mujer,45,Sí,Privado,Sí,No tengo (0 hijos),,,,1,1,1,No,Sí,1,3
+11/26/2021 15:51:19,Sí,De acuerdo,Sí,No vivo en CDMX,Mujer,24,Sí,Privado,No,No tengo (0 hijos),,,,3,2,2,Sí,Sí,2,7
